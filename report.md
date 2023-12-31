@@ -40,7 +40,7 @@ It is clear that the trend of using uniform-case titles started to become popula
 
 <img src="figures/casing_birth.png" width="70%" height=70%/>
 
-Unsurprisingly, I found that uniform-case titles were typically written by younger artists. (t = -14.56, p < 0.001). When selecting uniform-case songs, the mean birth year of artists is around 1993; for mixed-case songs, it is around 1989.
+Unsurprisingly, I found that uniform-case titles were typically written by younger artists. (t = -14.56, p < 0.001). When selecting uniform-case songs, the mean birth year of artists is around 1993; for mixed-case songs, it is around 1989. However, while it is clear that younger artists are driving this trend, the year 1993 is surprisingly early: if the trend were particular to Gen Z, the year should have been much more recent (late 90's or early 2000's).
 ### Effect of gender
 
 <img src="figures/casing_gender.png" width="70%" height=70%/>
