@@ -32,8 +32,7 @@ Each dataset includes information about the song's title, artist (age and gender
 ## Results
 ### Overall trend
 
-![](figures/casing_year_upper.png){: width="50%" height="50%"}
-![](figures/casing_year_lower.png){: width="50%" height="50%"}
+<img src="figures/casing_year_upper.png" width="50%" height=50%/>
 
 It is clear that the trend of using uniform-case titles started to become popular around 2016. Uppercase titles have always existed in a minority, as songs with acronyms as titles (e.g. E.T., OMG, GDFR) are uppercase. However, they did not appear to increase in popularity until 2016, when lowercase titles also began to appear. Since then, uniform-case titles have comprised over 15% of popular song titles (nearly 35% for songs released in 2023).
 ### Effect of birth year
