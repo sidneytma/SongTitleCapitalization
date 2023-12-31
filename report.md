@@ -6,17 +6,17 @@ Several articles have written about this trend and have noticed some interesting
 
 Unfortunately, there is not a lot of numerical evidence for these patterns yet. While it will be difficult to evaluate them completely, my goal is to determine whether or not they are reflected in popular song data.
 ## Questions
-**Is this trend particular to Gen Z artists?**
+*Is this trend particular to Gen Z artists?*
 
 If the trend of using uniform-case titles is particular to Gen Z artists, the expectation is that artists who use uniform-case titles should be born relatively recently (typically late 90’s and after).
 
-**Is there any relationship between artist gender and capitalization?**
+*Is there any relationship between artist gender and capitalization?*
 
 If the patterns observed in the article are correct, then I would expect to find the following:
 1. Female artists are more likely to use lowercase titles than male artists
 2. Male artists are more likely to use uppercase titles than female artists
 
-**Does a song title’s capitalization say anything about the song’s subjective qualities?**
+*Does a song title’s capitalization say anything about the song’s subjective qualities?*
 
 This question is probably the most difficult to answer, as it’s very difficult to numerically define a song’s subjective qualities like mood or energy. For this study, I use the Spotify API to collect the songs’ audio features, which include measurements such as energy, and valence. While these are not perfect (and by my own standards, not very accurate), in aggregate they should theoretically reflect expected patterns in a song’s subjective qualities.
 
@@ -25,12 +25,15 @@ There are several audio features that could be analyzed, but for the purpose of 
 If the patterns observed in the article are correct, I would expect that songs with uppercase titles should be rated relatively high in energy and valence, whereas songs with lowercase titles should be rated relatively low.
 ## Data
 This study involves two datasets:
-One containing over 8,000 songs released in 2010-2023
-One containing the Billboard Year-End Hot 100 songs from 2000-2022 (a total of 2,300 songs), as well as audio features for each song.
+- One containing over 8,000 songs released in 2010-2023
+- One containing the Billboard Year-End Hot 100 songs from 2000-2022 (a total of 2,300 songs), as well as audio features for each song.
 
 Each dataset includes information about the song's title, artist (age and gender), and release year. However, only the second one has data on audio features. Thus, the first dataset will be used to analyze trends relating to age and gender; the second for trends relating to audio features.
 ## Results
 ### Overall trend
+
+![](figures/casing_year_upper.png)
+
 It is clear that the trend of using uniform-case titles started to become popular around 2016. Uppercase titles have always existed in a minority, as songs with acronyms as titles (e.g. E.T., OMG, GDFR) are uppercase. However, they did not appear to increase in popularity until 2016, when lowercase titles also began to appear. Since then, uniform-case titles have comprised over 15% of popular song titles (nearly 35% for songs released in 2023).
 ### Effect of birth year
 (image)
