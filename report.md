@@ -33,16 +33,23 @@ Each dataset includes information about the song's title, artist (age and gender
 ### Overall trend
 
 <img src="figures/casing_year_upper.png" width="50%" height=50%/>
+<img src="figures/casing_year_lower.png" width="50%" height=50%/>
 
 It is clear that the trend of using uniform-case titles started to become popular around 2016. Uppercase titles have always existed in a minority, as songs with acronyms as titles (e.g. E.T., OMG, GDFR) are uppercase. However, they did not appear to increase in popularity until 2016, when lowercase titles also began to appear. Since then, uniform-case titles have comprised over 15% of popular song titles (nearly 35% for songs released in 2023).
 ### Effect of birth year
-(image)
+
+<img src="figures/casing_birth.png" width="50%" height=50%/>
+
 Unsurprisingly, I found that uniform-case titles were typically written by younger artists. (t = -14.56, p < 0.001). When selecting uniform-case songs, the mean birth year of artists is around 1993; for mixed-case songs, it is around 1989.
 ### Effect of gender
-(image)
+
+<img src="figures/casing_gender.png" width="50%" height=50%/>
+
 As expected, songs with lowercase titles were disproportionately written by female artists, and songs with uppercase titles were disproportionately written by male artists (X-squared = 95.046, p < 0.001). While about 65% of all songs were written by male artists, less than 30% of lowercase titles and nearly 75% of uppercase titles were written by male artists.
 ### Relationship with audio features
-(image)
+
+<img src="figures/casing_features.png" width="50%" height=50%/>
+
 As expected, songs with lowercase titles were ranked relatively lower in energy (t = -4.654, p < 0.001) and lower in valence (t = -4.032, p < 0.001). The average energy ranking of songs with lowercase titles was about 0.13 points lower than others, and the average valence ranking was about 0.14 points lower. In theory, this should suggest that songs with lowercase titles are generally less energetic and less positive.
 
 However, contrary to expectations, there was no significant difference in rankings between songs with uppercase titles and others. In theory, this would suggest that songs with uppercase titles do not noticeably differ from typical songs in terms of energy and positivity.
