@@ -1,0 +1,1248 @@
+title,artist,release_year,explicit,energy,valence,casing,is_uniform
+TiK ToK,Kesha,2010,False,0.837,0.714,mixed,mixed
+Need You Now,Lady A,2010,False,0.622,0.231,mixed,mixed
+"Hey, Soul Sister",Train,2010,False,0.886,0.795,mixed,mixed
+California Gurls,Katy Perry,2012,False,0.754,0.425,mixed,mixed
+OMG,USHER,2010,False,0.745,0.326,upper,uniform
+Airplanes,B.o.B,2010,True,0.867,0.377,mixed,mixed
+Love The Way You Lie,Eminem,2010,True,0.925,0.641,mixed,mixed
+Dynamite,Taio Cruz,2010,False,0.804,0.8180000000000001,mixed,mixed
+Break Your Heart,Taio Cruz,2010,False,0.899,0.629,mixed,mixed
+Nothin' on You,B.o.B,2010,False,0.853,0.743,mixed,mixed
+I Like It,Enrique Iglesias,2010,False,0.94,0.704,mixed,mixed
+In My Head,Jason Derulo,2010,False,0.739,0.852,mixed,mixed
+Teenage Dream,Katy Perry,2012,False,0.804,0.605,mixed,mixed
+Just the Way You Are,Bruno Mars,2010,False,0.841,0.424,mixed,mixed
+Cooler Than Me,Mike Posner,2010,False,0.8240000000000001,0.623,mixed,mixed
+DJ Got Us Fallin' In Love,USHER,2010,False,0.861,0.654,mixed,mixed
+Billionaire,Travie McCoy,2010,True,0.673,0.659,mixed,mixed
+Not Afraid,Eminem,2010,True,0.954,0.668,mixed,mixed
+Sexy Bitch,David Guetta,2011,True,0.627,0.801,mixed,mixed
+Your Love Is My Drug,Kesha,2010,False,0.612,0.756,mixed,mixed
+Find Your Love,Drake,2010,False,0.614,0.758,mixed,mixed
+Ridin' Solo,Jason Derulo,2010,False,0.8300000000000001,0.578,mixed,mixed
+Just A Dream,Nelly,2010,False,0.752,0.103,mixed,mixed
+How Low,Ludacris,2010,True,0.498,0.418,mixed,mixed
+Like A G6,Far East Movement,2010,False,0.837,0.778,mixed,mixed
+Club Can't Handle Me,Flo Rida,2010,False,0.882,0.525,mixed,mixed
+Whatcha Say,Jason Derulo,2010,False,0.711,0.711,mixed,mixed
+Baby,Justin Bieber,2010,False,0.859,0.535,mixed,mixed
+Mine,Taylor Swift,2010,False,0.757,0.658,mixed,mixed
+Only Girl,Rihanna,2010,False,0.71,0.632,mixed,mixed
+Blah Blah Blah,Kesha,2010,True,0.836,0.519,mixed,mixed
+Bottoms Up,Trey Songz,2010,True,0.601,0.329,mixed,mixed
+According To You,Orianthi,2010,False,0.917,0.552,mixed,mixed
+My Chick Bad,Ludacris,2010,True,0.723,0.757,mixed,mixed
+Take It Off,Kesha,2010,False,0.675,0.74,mixed,mixed
+Over,Drake,2010,True,0.845,0.45,mixed,mixed
+Animal,Neon Trees,2010,False,0.833,0.74,mixed,mixed
+Misery,Maroon 5,2010,False,0.811,0.711,mixed,mixed
+Magic,B.o.B,2010,False,0.932,0.787,mixed,mixed
+Your Love,Nicki Minaj,2010,True,0.52,0.184,mixed,mixed
+Deuces,Chris Brown,2011,True,0.736,0.217,mixed,mixed
+Impossible,Shontelle,2010,False,0.624,0.539,mixed,mixed
+My First Kiss,3OH!3,2010,False,0.889,0.8270000000000001,mixed,mixed
+All I Do Is Win,DJ Khaled,2010,True,0.781,0.277,mixed,mixed
+I Made It,Kevin Rudolf,2010,True,0.954,0.577,mixed,mixed
+Stuck Like Glue,Sugarland,2010,False,0.795,0.836,mixed,mixed
+There Goes My Baby,USHER,2010,False,0.52,0.257,mixed,mixed
+Today Was A Fairytale,Taylor Swift,2011,False,0.7030000000000001,0.344,mixed,mixed
+Eenie Meenie,Justin Bieber,2010,False,0.588,0.812,mixed,mixed
+Right Above It,Lil Wayne,2010,True,0.841,0.463,mixed,mixed
+If I Die Young,The Band Perry,2010,False,0.497,0.362,mixed,mixed
+The Only Exception,Paramore,2010,False,0.5630000000000001,0.209,mixed,mixed
+American Honey,Lady A,2010,False,0.684,0.121,mixed,mixed
+King of Anything,Sara Bareilles,2011,False,0.68,0.771,mixed,mixed
+Teach Me How to Dougie,Cali Swag District,2011,True,0.438,0.512,mixed,mixed
+"Lover, Lover",Jerrod Niemann,2010,False,0.5670000000000001,0.948,mixed,mixed
+Rolling in the Deep,Adele,2011,True,0.769,0.507,mixed,mixed
+Party Rock Anthem,LMFAO,2011,False,0.736,0.352,mixed,mixed
+Firework,Katy Perry,2012,False,0.8260000000000001,0.649,mixed,mixed
+E.T.,Katy Perry,2012,False,0.869,0.76,upper,uniform
+Give Me Everything,Pitbull,2011,False,0.939,0.53,mixed,mixed
+Grenade,Bruno Mars,2010,False,0.558,0.245,mixed,mixed
+Fuck You,CeeLo Green,2010,True,0.834,0.738,mixed,mixed
+Super Bass,Nicki Minaj,2010,True,0.861,0.669,mixed,mixed
+Moves Like Jagger,Maroon 5,2015,False,0.751,0.599,mixed,mixed
+Just Can’t Get Enough,Black Eyed Peas,2010,False,0.628,0.262,mixed,mixed
+On The Floor,Jennifer Lopez,2011,False,0.686,0.444,mixed,mixed
+S&M,Rihanna,2010,True,0.682,0.833,upper,uniform
+Pumped Up Kicks,Foster The People,2011,False,0.71,0.965,mixed,mixed
+Last Friday Night,Katy Perry,2012,False,0.8150000000000001,0.765,mixed,mixed
+Just the Way You Are,Bruno Mars,2010,False,0.841,0.424,mixed,mixed
+Tonight,Enrique Iglesias,2010,True,0.877,0.272,mixed,mixed
+Raise Your Glass,P!nk,2010,True,0.717,0.614,mixed,mixed
+Born This Way,Lady Gaga,2011,False,0.8280000000000001,0.494,mixed,mixed
+F**kin' Perfect,P!nk,2010,True,0.646,0.481,mixed,mixed
+What's My Name?,Rihanna,2010,True,0.786,0.583,mixed,mixed
+Look At Me Now,Chris Brown,2011,True,0.677,0.538,mixed,mixed
+Down On Me,Jeremih,2010,False,0.598,0.594,mixed,mixed
+How To Love,Lil Wayne,2011,False,0.661,0.272,mixed,mixed
+Someone Like You,Adele,2011,False,0.319,0.294,mixed,mixed
+The Lazy Song,Bruno Mars,2010,False,0.711,0.955,mixed,mixed
+Till the World Ends,Britney Spears,2011,False,0.705,0.45,mixed,mixed
+The Show Goes On,Lupe Fiasco,2010,True,0.91,0.629,mixed,mixed
+The Edge Of Glory,Lady Gaga,2011,False,0.768,0.357,mixed,mixed
+We R Who We R,Kesha,2010,False,0.8170000000000001,0.653,mixed,mixed
+Black and Yellow,Wiz Khalifa,2010,True,0.834,0.538,mixed,mixed
+Tonight Tonight,Hot Chelle Rae,2011,False,0.78,0.8160000000000001,mixed,mixed
+Blow,Kesha,2010,False,0.729,0.812,mixed,mixed
+Lighters,Bad Meets Evil,2011,True,0.6950000000000001,0.144,mixed,mixed
+If I Die Young,The Band Perry,2010,False,0.497,0.362,mixed,mixed
+Stereo Hearts,Gym Class Heroes,2011,False,0.795,0.796,mixed,mixed
+The Time,Black Eyed Peas,2010,False,0.8130000000000001,0.436,mixed,mixed
+Coming Home,Diddy - Dirty Money,2010,False,0.839,0.232,mixed,mixed
+Hey Baby,Pitbull,2011,False,0.912,0.762,mixed,mixed
+Only Girl,Rihanna,2010,False,0.71,0.632,mixed,mixed
+6 Foot 7 Foot,Lil Wayne,2011,True,0.751,0.604,mixed,mixed
+Just A Kiss,Lady A,2011,False,0.639,0.332,mixed,mixed
+Dirt Road Anthem,Jason Aldean,2010,False,0.741,0.635,mixed,mixed
+Dynamite,Taio Cruz,2010,False,0.804,0.8180000000000001,mixed,mixed
+No Hands,Waka Flocka Flame,2010,True,0.595,0.361,mixed,mixed
+I Wanna Go,Britney Spears,2011,False,0.546,0.787,mixed,mixed
+I'm On One,DJ Khaled,2011,True,0.807,0.438,mixed,mixed
+You Make Me Feel...,Cobra Starship,2011,False,0.857,0.748,mixed,mixed
+Yeah 3x,Chris Brown,2011,True,0.882,0.7000000000000001,mixed,mixed
+Moment 4 Life,Nicki Minaj,2010,True,0.882,0.386,mixed,mixed
+I Need A Doctor,Dr. Dre,2011,True,0.946,0.397,mixed,mixed
+Just A Dream,Nelly,2010,False,0.752,0.103,mixed,mixed
+Motivation,Kelly Rowland,2011,False,0.679,0.264,mixed,mixed
+Stereo Love,Edward Maya,2010,False,0.784,0.375,mixed,mixed
+Jar of Hearts,Christina Perri,2010,False,0.348,0.0886,mixed,mixed
+Roll Up,Wiz Khalifa,2011,True,0.805,0.602,mixed,mixed
+Sexy And I Know It,LMFAO,2011,False,0.861,0.795,mixed,mixed
+Rocketeer,Far East Movement,2010,False,0.845,0.357,mixed,mixed
+All Of The Lights,Kanye West,2010,True,0.803,0.221,mixed,mixed
+Hold It Against Me,Britney Spears,2011,False,0.722,0.389,mixed,mixed
+More,USHER,2010,False,0.893,0.794,mixed,mixed
+What the Hell,Avril Lavigne,2011,False,0.926,0.877,mixed,mixed
+Written in the Stars,Tinie Tempah,2010,True,0.945,0.5730000000000001,mixed,mixed
+Bottoms Up,Trey Songz,2010,True,0.601,0.329,mixed,mixed
+DJ Got Us Fallin' In Love,USHER,2010,False,0.861,0.654,mixed,mixed
+For the First Time,The Script,2010,True,0.618,0.404,mixed,mixed
+Honey Bee,Blake Shelton,2011,False,0.849,0.723,mixed,mixed
+Don't You Wanna Stay,Jason Aldean,2010,False,0.631,0.152,mixed,mixed
+We Found Love,Rihanna,2011,False,0.766,0.6000000000000001,mixed,mixed
+Pretty Girl Rock,Keri Hilson,2010,False,0.87,0.9,mixed,mixed
+You And I,Lady Gaga,2011,False,0.7010000000000001,0.518,mixed,mixed
+Like A G6,Far East Movement,2010,False,0.837,0.778,mixed,mixed
+Without You,David Guetta,2011,False,0.614,0.402,mixed,mixed
+Back To December,Taylor Swift,2010,False,0.67,0.286,mixed,mixed
+Teenage Dream,Katy Perry,2012,False,0.804,0.605,mixed,mixed
+Crazy Girl,Eli Young Band,2011,False,0.651,0.257,mixed,mixed
+Cheers,Rihanna,2010,False,0.912,0.727,mixed,mixed
+Who Says,Selena Gomez & The Scene,2011,False,0.927,0.744,mixed,mixed
+Barefoot Blue Jean Night,Jake Owen,2011,False,0.807,0.812,mixed,mixed
+Knee Deep,Zac Brown Band,2010,False,0.584,0.61,mixed,mixed
+Country Girl,Luke Bryan,2011,False,0.904,0.671,mixed,mixed
+Remind Me,Brad Paisley,2011,False,0.726,0.288,mixed,mixed
+In The Dark,DEV,2012,False,0.8230000000000001,0.442,mixed,mixed
+Backseat,New Boyz,2011,True,0.923,0.782,mixed,mixed
+Headlines,Drake,2011,True,0.5660000000000001,0.425,mixed,mixed
+Best Thing I Never Had,Beyoncé,2011,False,0.665,0.286,mixed,mixed
+Don't Wanna Go Home,Jason Derulo,2011,False,0.81,0.675,mixed,mixed
+Where Them Girls At,David Guetta,2011,True,0.872,0.555,mixed,mixed
+She Ain't You,Chris Brown,2011,False,0.716,0.619,mixed,mixed
+Take A Back Road,Rodney Atkins,2011,False,0.856,0.918,mixed,mixed
+Please Don't Go,Mike Posner,2011,False,0.882,0.657,mixed,mixed
+Sure Thing,Miguel,2010,False,0.607,0.498,mixed,mixed
+Price Tag,Jessie J,2011,False,0.8310000000000001,0.685,mixed,mixed
+God Gave Me You,Blake Shelton,2011,False,0.844,0.543,mixed,mixed
+She Will,Lil Wayne,2011,True,0.841,0.0837,mixed,mixed
+Are You Gonna Kiss Me Or Not,Thompson Square,2011,False,0.7010000000000001,0.613,mixed,mixed
+Animal,Neon Trees,2010,False,0.833,0.74,mixed,mixed
+You and Tequila,Kenny Chesney,2010,False,0.454,0.35,mixed,mixed
+Colder Weather,Zac Brown Band,2010,False,0.381,0.199,mixed,mixed
+My Last,Big Sean,2011,True,0.773,0.367,mixed,mixed
+Somebody That I Used To Know,Gotye,2011,False,0.495,0.72,mixed,mixed
+Call Me Maybe,Carly Rae Jepsen,2012,False,0.578,0.631,mixed,mixed
+We Are Young,fun.,2012,False,0.638,0.735,mixed,mixed
+Payphone,Maroon 5,2012,True,0.756,0.523,mixed,mixed
+Lights,Ellie Goulding,2010,False,0.789,0.809,mixed,mixed
+Glad You Came,The Wanted,2012,False,0.841,0.431,mixed,mixed
+Stronger,Kelly Clarkson,2011,False,0.939,0.684,mixed,mixed
+We Found Love,Rihanna,2011,False,0.766,0.6000000000000001,mixed,mixed
+Starships,Nicki Minaj,2011,True,0.716,0.751,mixed,mixed
+What Makes You Beautiful,One Direction,2012,False,0.771,0.873,mixed,mixed
+Wild Ones,Flo Rida,2012,False,0.86,0.437,mixed,mixed
+Set Fire to the Rain,Adele,2011,False,0.67,0.445,mixed,mixed
+Sexy And I Know It,LMFAO,2011,False,0.861,0.795,mixed,mixed
+Some Nights,fun.,2012,True,0.738,0.392,mixed,mixed
+Wide Awake,Katy Perry,2012,False,0.683,0.5750000000000001,mixed,mixed
+Good Feeling,Flo Rida,2012,False,0.89,0.684,mixed,mixed
+Whistle,Flo Rida,2012,False,0.937,0.739,mixed,mixed
+One More Night,Maroon 5,2012,False,0.8200000000000001,0.613,mixed,mixed
+Drive By,Train,2012,False,0.837,0.721,mixed,mixed
+The Motto,Drake,2011,True,0.442,0.39,mixed,mixed
+Where Have You Been,Rihanna,2011,False,0.847,0.444,mixed,mixed
+Everybody Talks,Neon Trees,2012,True,0.924,0.725,mixed,mixed
+Take Care,Drake,2011,True,0.515,0.299,mixed,mixed
+Titanium,David Guetta,2011,False,0.788,0.301,mixed,mixed
+I Won't Give Up,Jason Mraz,2012,False,0.303,0.142,mixed,mixed
+It Will Rain,Bruno Mars,2011,False,0.8240000000000001,0.434,mixed,mixed
+Mercy,Kanye West,2012,True,0.496,0.426,mixed,mixed
+Boyfriend,Justin Bieber,2012,False,0.55,0.332,mixed,mixed
+Party Rock Anthem,LMFAO,2011,False,0.736,0.352,mixed,mixed
+Too Close,Alex Clare,2011,False,0.712,0.286,mixed,mixed
+Part Of Me,Katy Perry,2012,False,0.918,0.769,mixed,mixed
+"Young, Wild & Free",Snoop Dogg,2011,True,0.655,0.531,mixed,mixed
+We Are Never Ever Getting Back Together,Taylor Swift,2012,False,0.676,0.75,mixed,mixed
+As Long As You Love Me,Justin Bieber,2012,False,0.873,0.613,mixed,mixed
+Turn Me On,David Guetta,2011,False,0.794,0.412,mixed,mixed
+Moves Like Jagger,Maroon 5,2015,False,0.751,0.599,mixed,mixed
+Blow Me,P!nk,2012,True,0.919,0.729,mixed,mixed
+Good Time,Owl City,2012,False,0.872,0.682,mixed,mixed
+Give Your Heart a Break,Demi Lovato,2011,False,0.6950000000000001,0.5690000000000001,mixed,mixed
+Ni**as In Paris,JAY-Z,2011,True,0.859,0.769,mixed,mixed
+The One That Got Away,Katy Perry,2012,False,0.792,0.864,mixed,mixed
+Feel So Close,Calvin Harris,2012,False,0.924,0.919,mixed,mixed
+Someone Like You,Adele,2011,False,0.321,0.288,mixed,mixed
+Scream,USHER,2012,False,0.862,0.5690000000000001,mixed,mixed
+Rack City,Tyga,2012,True,0.339,0.273,mixed,mixed
+Domino,Jessie J,2011,False,0.547,0.793,mixed,mixed
+Gangnam Style,PSY,2012,False,0.937,0.749,mixed,mixed
+International Love,Pitbull,2011,False,0.855,0.648,mixed,mixed
+Home,Phillip Phillips,2012,False,0.8260000000000001,0.322,mixed,mixed
+Without You,David Guetta,2011,False,0.614,0.402,mixed,mixed
+Ass Back Home,Gym Class Heroes,2011,True,0.838,0.646,mixed,mixed
+Wanted,Hunter Hayes,2011,False,0.476,0.3,mixed,mixed
+Drunk On You,Luke Bryan,2011,False,0.872,0.472,mixed,mixed
+No Lie,2 Chainz,2012,True,0.665,0.611,mixed,mixed
+Want U Back,Cher Lloyd,2012,False,0.891,0.5630000000000001,mixed,mixed
+Don't Wake Me Up,Chris Brown,2012,False,0.6910000000000001,0.206,mixed,mixed
+Dance  Remix,Big Sean,2011,True,0.721,0.6980000000000001,mixed,mixed
+Springsteen,Eric Church,2011,False,0.809,0.927,mixed,mixed
+Brokenhearted,Karmin,2012,False,0.735,0.894,mixed,mixed
+Not Over You,Gavin DeGraw,2011,False,0.888,0.363,mixed,mixed
+Stereo Hearts,Gym Class Heroes,2011,False,0.795,0.796,mixed,mixed
+Back in Time,Pitbull,2012,False,0.915,0.789,mixed,mixed
+Work Out,J. Cole,2011,True,0.427,0.216,mixed,mixed
+Rumour Has It,Adele,2011,False,0.753,0.557,mixed,mixed
+Let's Go,Calvin Harris,2012,False,0.882,0.875,mixed,mixed
+Good Girl,Carrie Underwood,2012,False,0.839,0.741,mixed,mixed
+Pontoon,Little Big Town,2013,False,0.8190000000000001,0.867,mixed,mixed
+Ho Hey,The Lumineers,2012,False,0.472,0.359,mixed,mixed
+Paradise,Coldplay,2011,False,0.585,0.212,mixed,mixed
+Blown Away,Carrie Underwood,2012,False,0.843,0.392,mixed,mixed
+Rolling in the Deep,Adele,2011,False,0.756,0.522,mixed,mixed
+Climax,USHER,2012,False,0.478,0.333,mixed,mixed
+"Work Hard, Play Hard",Wiz Khalifa,2012,True,0.678,0.465,mixed,mixed
+Let Me Love You,Ne-Yo,2012,False,0.677,0.248,mixed,mixed
+Pound The Alarm,Nicki Minaj,2011,True,0.858,0.591,mixed,mixed
+Come Over,Kenny Chesney,2012,False,0.704,0.481,mixed,mixed
+Heart Attack,Trey Songz,2012,True,0.865,0.464,mixed,mixed
+Drank in My Cup,Kirko Bangz,2011,True,0.632,0.234,mixed,mixed
+Birthday Cake,Rihanna,2011,True,0.8260000000000001,0.329,mixed,mixed
+So Good,B.o.B,2012,False,0.9,0.591,mixed,mixed
+50 Ways to Say Goodbye,Train,2012,False,0.935,0.736,mixed,mixed
+Red Solo Cup,Toby Keith,2011,False,0.56,0.785,mixed,mixed
+Love You Like A Love Song,Selena Gomez & The Scene,2011,False,0.678,0.922,mixed,mixed
+Turn Up the Music,Chris Brown,2012,False,0.841,0.643,mixed,mixed
+Die Young,Kesha,2012,False,0.7000000000000001,0.801,mixed,mixed
+5 O'Clock,T-Pain,2011,True,0.882,0.385,mixed,mixed
+A Thousand Years,Christina Perri,2011,False,0.407,0.161,mixed,mixed
+Take A Little Ride,Jason Aldean,2012,False,0.866,0.775,mixed,mixed
+You Da One,Rihanna,2011,True,0.715,0.863,mixed,mixed
+We Run The Night,Havana Brown,2011,True,0.861,0.7030000000000001,mixed,mixed
+It's Time,Imagine Dragons,2012,False,0.884,0.86,mixed,mixed
+Cashin' Out,Ca$h Out,2012,True,0.665,0.663,mixed,mixed
+I Don't Want This Night To End,Luke Bryan,2011,False,0.728,0.375,mixed,mixed
+Diamonds,Rihanna,2012,False,0.669,0.405,mixed,mixed
+Hard To Love,Lee Brice,2012,False,0.722,0.469,mixed,mixed
+Somethin' 'Bout A Truck,Kip Moore,2012,False,0.794,0.79,mixed,mixed
+Adorn,Miguel,2012,False,0.585,0.22,mixed,mixed
+Fly Over States,Jason Aldean,2010,False,0.736,0.184,mixed,mixed
+Even If It Breaks Your Heart,Eli Young Band,2011,False,0.527,0.5740000000000001,mixed,mixed
+BURN IT DOWN,Linkin Park,2012,False,0.972,0.585,upper,uniform
+Thrift Shop,Macklemore & Ryan Lewis,2012,True,0.526,0.662,mixed,mixed
+Blurred Lines,Robin Thicke,2013,True,0.599,0.843,mixed,mixed
+Radioactive,Imagine Dragons,2012,False,0.784,0.236,mixed,mixed
+Harlem Shake,Baauer,2013,False,0.794,0.282,mixed,mixed
+Can't Hold Us,Macklemore & Ryan Lewis,2012,False,0.927,0.88,mixed,mixed
+Mirrors,Justin Timberlake,2013,False,0.6000000000000001,0.646,mixed,mixed
+Just Give Me a Reason,P!nk,2012,False,0.547,0.441,mixed,mixed
+When I Was Your Man,Bruno Mars,2012,False,0.28,0.387,mixed,mixed
+Cruise,Florida Georgia Line,2013,False,0.921,0.68,mixed,mixed
+Roar,Katy Perry,2013,False,0.782,0.44,mixed,mixed
+Locked out of Heaven,Bruno Mars,2012,False,0.6980000000000001,0.867,mixed,mixed
+Ho Hey,The Lumineers,2012,False,0.472,0.359,mixed,mixed
+Stay,Rihanna,2012,False,0.31,0.125,mixed,mixed
+Get Lucky,Daft Punk,2013,False,0.811,0.862,mixed,mixed
+Royals,Lorde,2013,False,0.428,0.337,mixed,mixed
+I Knew You Were Trouble.,Taylor Swift,2012,False,0.469,0.679,mixed,mixed
+We Can't Stop,Miley Cyrus,2013,False,0.622,0.484,mixed,mixed
+Wrecking Ball,Miley Cyrus,2013,False,0.422,0.349,mixed,mixed
+Wake Me Up,Avicii,2013,False,0.806,0.577,mixed,mixed
+Suit & Tie,Justin Timberlake,2013,True,0.596,0.357,mixed,mixed
+Cups,Anna Kendrick,2015,False,0.455,0.79,mixed,mixed
+Holy Grail,JAY-Z,2013,True,0.534,0.156,mixed,mixed
+Scream & Shout,will.i.am,2013,True,0.685,0.501,mixed,mixed
+Clarity,Zedd,2012,False,0.781,0.176,mixed,mixed
+Sail,AWOLNATION,2011,False,0.435,0.243,mixed,mixed
+Don't You Worry Child,Swedish House Mafia,2012,False,0.84,0.438,mixed,mixed
+Diamonds,Rihanna,2012,False,0.669,0.405,mixed,mixed
+I Love It,Icona Pop,2012,True,0.905,0.838,mixed,mixed
+Safe And Sound,Capital Cities,2013,False,0.8190000000000001,0.766,mixed,mixed
+Treasure,Bruno Mars,2012,True,0.6920000000000001,0.937,mixed,mixed
+The Way,Ariana Grande,2013,False,0.878,0.862,mixed,mixed
+Started From the Bottom,Drake,2013,True,0.535,0.515,mixed,mixed
+Come & Get It,Selena Gomez,2013,False,0.788,0.5760000000000001,mixed,mixed
+"Hold On, We're Going Home",Drake,2013,False,0.451,0.32,mixed,mixed
+Daylight,Maroon 5,2012,False,0.67,0.352,mixed,mixed
+Feel This Moment,Pitbull,2012,False,0.758,0.542,mixed,mixed
+Applause,Lady Gaga,2013,False,0.778,0.733,mixed,mixed
+One More Night,Maroon 5,2012,False,0.8200000000000001,0.613,mixed,mixed
+Love Me,Lil Wayne,2013,True,0.608,0.464,mixed,mixed
+My Songs Know What You Did In The Dark,Fall Out Boy,2013,False,0.924,0.5670000000000001,mixed,mixed
+F**kin' Problems,A$AP Rocky,2013,True,0.6930000000000001,0.662,mixed,mixed
+Beauty And A Beat,Justin Bieber,2012,False,0.843,0.526,mixed,mixed
+Same Love,Macklemore & Ryan Lewis,2012,False,0.475,0.308,mixed,mixed
+Sweet Nothing,Calvin Harris,2012,False,0.929,0.582,mixed,mixed
+Summertime Sadness,Lana Del Rey,2013,False,0.81,0.11,mixed,mixed
+Home,Phillip Phillips,2012,False,0.8260000000000001,0.322,mixed,mixed
+It's Time,Imagine Dragons,2012,False,0.884,0.86,mixed,mixed
+Power Trip,J. Cole,2013,True,0.608,0.406,mixed,mixed
+Girl On Fire,Alicia Keys,2012,False,0.803,0.31,mixed,mixed
+Heart Attack,Demi Lovato,2013,False,0.776,0.526,mixed,mixed
+Love Somebody,Maroon 5,2012,False,0.79,0.423,mixed,mixed
+I Will Wait,Mumford & Sons,2012,False,0.756,0.447,mixed,mixed
+Try,P!nk,2012,False,0.622,0.561,mixed,mixed
+Wagon Wheel,Darius Rucker,2013,False,0.66,0.5740000000000001,mixed,mixed
+Gangnam Style,PSY,2012,False,0.937,0.749,mixed,mixed
+I Need Your Love,Calvin Harris,2012,False,0.869,0.58,mixed,mixed
+Die Young,Kesha,2012,False,0.7000000000000001,0.801,mixed,mixed
+Some Nights,fun.,2012,True,0.738,0.392,mixed,mixed
+Bad,Wale,2013,True,0.638,0.28,mixed,mixed
+Boys 'Round Here,Blake Shelton,2013,False,0.6880000000000001,0.649,mixed,mixed
+"Gone, Gone, Gone",Phillip Phillips,2012,False,0.642,0.501,mixed,mixed
+Demons,Imagine Dragons,2012,False,0.71,0.428,mixed,mixed
+Counting Stars,OneRepublic,2014,False,0.705,0.477,mixed,mixed
+I Cry,Flo Rida,2012,False,0.8220000000000001,0.763,mixed,mixed
+Little Talks,Of Monsters and Men,2012,False,0.757,0.417,mixed,mixed
+The Other Side,Jason Derulo,2013,False,0.836,0.517,mixed,mixed
+Berzerk,Eminem,2013,True,0.872,0.684,mixed,mixed
+Catch My Breath,Kelly Clarkson,2012,False,0.946,0.517,mixed,mixed
+Crash My Party,Luke Bryan,2013,False,0.8160000000000001,0.414,mixed,mixed
+Pour It Up,Rihanna,2012,True,0.478,0.39,mixed,mixed
+22,Taylor Swift,2012,False,0.729,0.668,mixed,mixed
+I Want Crazy,Hunter Hayes,2011,False,0.878,0.558,mixed,mixed
+The Fox,Ylvis,2013,False,0.867,0.546,mixed,mixed
+Best Song Ever,One Direction,2013,False,0.877,0.561,mixed,mixed
+The A Team,Ed Sheeran,2011,False,0.289,0.407,mixed,mixed
+Carry On,fun.,2012,False,0.6940000000000001,0.365,mixed,mixed
+Highway Don't Care,Tim McGraw,2013,False,0.79,0.495,mixed,mixed
+That's My Kind Of Night,Luke Bryan,2013,False,0.751,0.875,mixed,mixed
+Swimming Pools,Kendrick Lamar,2012,True,0.447,0.189,mixed,mixed
+Sure Be Cool If You Did,Blake Shelton,2013,False,0.726,0.582,mixed,mixed
+#Beautiful,Mariah Carey,2014,True,0.755,0.425,mixed,mixed
+Troublemaker,Olly Murs,2012,False,0.857,0.967,mixed,mixed
+Body Party,Ciara,2013,False,0.599,0.106,mixed,mixed
+Adorn,Miguel,2012,False,0.585,0.22,mixed,mixed
+Hall of Fame,The Script,2012,False,0.873,0.629,mixed,mixed
+Let Me Love You,Ne-Yo,2012,False,0.677,0.248,mixed,mixed
+U.O.E.N.O.,Rocko,2013,True,0.651,0.67,upper,uniform
+Next To Me,Emeli Sandé,2012,False,0.81,0.391,mixed,mixed
+Mama's Broken Heart,Miranda Lambert,2011,False,0.809,0.748,mixed,mixed
+It Goes Like This,Thomas Rhett,2013,False,0.837,0.506,mixed,mixed
+Bugatti,Ace Hood,2013,True,0.592,0.0663,mixed,mixed
+Wanted,Hunter Hayes,2011,False,0.476,0.3,mixed,mixed
+Downtown,Lady A,2013,False,0.8250000000000001,0.96,mixed,mixed
+Get Your Shine On,Florida Georgia Line,2012,False,0.927,0.607,mixed,mixed
+#thatPOWER,will.i.am,2013,False,0.608,0.403,mixed,mixed
+Brave,Sara Bareilles,2013,False,0.836,0.758,mixed,mixed
+Let Her Go,Passenger,2012,False,0.545,0.244,mixed,mixed
+Runnin' Outta Moonlight,Randy Houser,2013,False,0.801,0.769,mixed,mixed
+I'm Different,2 Chainz,2012,True,0.7020000000000001,0.704,mixed,mixed
+Still into You,Paramore,2013,False,0.923,0.765,mixed,mixed
+Happy,Pharrell Williams,2014,False,0.8220000000000001,0.962,mixed,mixed
+Dark Horse,Katy Perry,2013,False,0.585,0.353,mixed,mixed
+All of Me,John Legend,2013,False,0.264,0.331,mixed,mixed
+Fancy,Iggy Azalea,2014,True,0.716,0.377,mixed,mixed
+Counting Stars,OneRepublic,2014,False,0.705,0.477,mixed,mixed
+Talk Dirty,Jason Derulo,2013,True,0.652,0.759,mixed,mixed
+Rude,MAGIC!,2013,False,0.807,0.899,mixed,mixed
+All About That Bass,Meghan Trainor,2015,True,0.887,0.961,mixed,mixed
+Problem,Ariana Grande,2014,False,0.805,0.625,mixed,mixed
+Stay With Me,Sam Smith,2014,False,0.42,0.184,mixed,mixed
+Timber,Pitbull,2013,False,0.965,0.8250000000000001,mixed,mixed
+Pompeii,Bastille,2013,False,0.715,0.5710000000000001,mixed,mixed
+Shake It Off,Taylor Swift,2014,False,0.8,0.942,mixed,mixed
+Am I Wrong,Nico & Vinz,2014,False,0.68,0.76,mixed,mixed
+Turn Down for What,DJ Snake,2013,False,0.799,0.0815,mixed,mixed
+The Monster,Eminem,2013,True,0.853,0.624,mixed,mixed
+Say Something,A Great Big World,2014,False,0.147,0.0765,mixed,mixed
+Team,Lorde,2013,False,0.578,0.416,mixed,mixed
+Let Her Go,Passenger,2012,False,0.545,0.244,mixed,mixed
+Royals,Lorde,2013,False,0.428,0.337,mixed,mixed
+Let It Go,Idina Menzel,2013,False,0.485,0.369,mixed,mixed
+Wake Me Up,Avicii,2013,False,0.806,0.577,mixed,mixed
+Demons,Imagine Dragons,2012,False,0.71,0.428,mixed,mixed
+Story of My Life,One Direction,2013,False,0.663,0.293,mixed,mixed
+Chandelier,Sia,2014,False,0.787,0.5720000000000001,mixed,mixed
+Black Widow,Iggy Azalea,2014,True,0.72,0.519,mixed,mixed
+Bang Bang,Jessie J,2014,False,0.747,0.7000000000000001,mixed,mixed
+Latch,Disclosure,2013,False,0.735,0.544,mixed,mixed
+Maps,Maroon 5,2014,False,0.713,0.879,mixed,mixed
+Loyal,Chris Brown,2014,True,0.522,0.616,mixed,mixed
+Best Day Of My Life,American Authors,2014,False,0.902,0.538,mixed,mixed
+Habits,Tove Lo,2014,False,0.65,0.347,mixed,mixed
+Summer,Calvin Harris,2014,False,0.856,0.743,mixed,mixed
+Boom Clap,Charli XCX,2014,False,0.911,0.5760000000000001,mixed,mixed
+Drunk in Love,Beyoncé,2014,True,0.621,0.399,mixed,mixed
+Anaconda,Nicki Minaj,2014,True,0.603,0.647,mixed,mixed
+Break Free,Ariana Grande,2014,False,0.7020000000000001,0.284,mixed,mixed
+Bailando,Enrique Iglesias,2014,False,0.78,0.96,mixed,mixed
+Burn,Ellie Goulding,2013,False,0.777,0.329,mixed,mixed
+Wiggle,Jason Derulo,2013,False,0.621,0.721,mixed,mixed
+Rather Be,Clean Bandit,2014,False,0.586,0.549,mixed,mixed
+Don't Tell 'Em,Jeremih,2015,True,0.527,0.386,mixed,mixed
+Show Me,Kid Ink,2014,True,0.508,0.663,mixed,mixed
+Wrecking Ball,Miley Cyrus,2013,False,0.422,0.349,mixed,mixed
+Not a Bad Thing,Justin Timberlake,2014,True,0.717,0.444,mixed,mixed
+Roar,Katy Perry,2013,False,0.782,0.44,mixed,mixed
+Ain't It Fun,Paramore,2013,False,0.893,0.673,mixed,mixed
+The Man,Aloe Blacc,2014,False,0.769,0.488,mixed,mixed
+This Is How We Roll,Florida Georgia Line,2013,False,0.931,0.723,mixed,mixed
+Classic,MKTO,2013,False,0.781,0.8,mixed,mixed
+A Sky Full of Stars,Coldplay,2014,False,0.675,0.162,mixed,mixed
+Don't,Ed Sheeran,2014,False,0.608,0.849,mixed,mixed
+Na Na,Trey Songz,2014,False,0.476,0.235,mixed,mixed
+Hot N*gga,Bobby Shmurda,2014,True,0.51,0.18,mixed,mixed
+"Hold On, We're Going Home",Drake,2013,False,0.451,0.32,mixed,mixed
+Sing,Ed Sheeran,2014,False,0.67,0.939,mixed,mixed
+Radioactive,Imagine Dragons,2012,False,0.784,0.236,mixed,mixed
+My Nigga,YG,2013,True,0.475,0.785,mixed,mixed
+Cool Kids,Echosmith,2013,False,0.671,0.786,mixed,mixed
+Hey Brother,Avicii,2013,False,0.78,0.458,mixed,mixed
+Trumpets,Jason Derulo,2013,False,0.7030000000000001,0.64,mixed,mixed
+Animals,Maroon 5,2014,False,0.742,0.328,mixed,mixed
+Burnin' It Down,Jason Aldean,2014,False,0.795,0.64,mixed,mixed
+Play It Again,Luke Bryan,2013,False,0.886,0.595,mixed,mixed
+2 On,Tinashe,2014,True,0.595,0.431,mixed,mixed
+Dirt,Florida Georgia Line,2014,False,0.878,0.592,mixed,mixed
+Love Runs Out,OneRepublic,2014,False,0.935,0.738,mixed,mixed
+Bottoms Up,Brantley Gilbert,2014,False,0.857,0.545,mixed,mixed
+Shower,Becky G,2014,False,0.529,0.121,mixed,mixed
+Me And My Broken Heart,Rixton,2014,False,0.768,0.54,mixed,mixed
+Animals,Martin Garrix,2013,True,0.868,0.0376,mixed,mixed
+Lifestyle,Rich Gang,2014,True,0.667,0.471,mixed,mixed
+American Kids,Kenny Chesney,2014,False,0.589,0.849,mixed,mixed
+Brave,Sara Bareilles,2013,False,0.836,0.758,mixed,mixed
+Sweater Weather,The Neighbourhood,2013,False,0.807,0.398,mixed,mixed
+Leave The Night On,Sam Hunt,2014,False,0.951,0.838,mixed,mixed
+New Flame,Chris Brown,2014,True,0.629,0.446,mixed,mixed
+Love Never Felt So Good,Michael Jackson,2014,False,0.719,0.712,mixed,mixed
+Drunk On A Plane,Dierks Bentley,2014,False,0.73,0.66,mixed,mixed
+Birthday,Katy Perry,2013,False,0.674,0.843,mixed,mixed
+Bartender,Lady A,2014,False,0.937,0.645,mixed,mixed
+La La La,Naughty Boy,2013,False,0.677,0.254,mixed,mixed
+Blurred Lines,Robin Thicke,2013,False,0.504,0.881,mixed,mixed
+Do What U Want,Lady Gaga,2013,True,0.801,0.534,mixed,mixed
+Can't Remember to Forget You,Shakira,2014,False,0.81,0.8240000000000001,mixed,mixed
+Amnesia,5 Seconds of Summer,2014,False,0.499,0.108,mixed,mixed
+No Mediocre,T.I.,2014,True,0.45,0.178,mixed,mixed
+Come with Me Now,KONGOS,2014,False,0.726,0.728,mixed,mixed
+Believe Me,Lil Wayne,2014,True,0.491,0.196,mixed,mixed
+23,Mike WiLL Made-It,2013,True,0.599,0.319,mixed,mixed
+Beachin',Jake Owen,2013,False,0.902,0.709,mixed,mixed
+White Walls,Macklemore & Ryan Lewis,2012,True,0.782,0.8270000000000001,mixed,mixed
+She Looks So Perfect,5 Seconds of Summer,2014,False,0.951,0.441,mixed,mixed
+Stay The Night,Zedd,2012,False,0.738,0.461,mixed,mixed
+Partition,Beyoncé,2014,True,0.441,0.172,mixed,mixed
+Studio,ScHoolboy Q,2014,True,0.589,0.58,mixed,mixed
+0 To 100 / The Catch Up,Drake,2013,True,0.716,0.504,mixed,mixed
+I Don't Dance,Lee Brice,2014,False,0.559,0.19,mixed,mixed
+Somethin' Bad,Miranda Lambert,2014,False,0.888,0.484,mixed,mixed
+Adore You,Miley Cyrus,2013,False,0.655,0.201,mixed,mixed
+Uptown Funk,Mark Ronson,2015,True,0.609,0.928,mixed,mixed
+Thinking out Loud,Ed Sheeran,2014,False,0.445,0.591,mixed,mixed
+See You Again,Wiz Khalifa,2015,False,0.481,0.283,mixed,mixed
+Trap Queen,Fetty Wap,2014,True,0.873,0.8170000000000001,mixed,mixed
+Sugar,Maroon 5,2014,True,0.788,0.884,mixed,mixed
+Shut Up and Dance,WALK THE MOON,2014,False,0.866,0.619,mixed,mixed
+Blank Space,Taylor Swift,2014,False,0.7030000000000001,0.5700000000000001,mixed,mixed
+Watch Me,Silentó,2015,False,0.759,0.962,mixed,mixed
+Earned It,The Weeknd,2014,False,0.381,0.426,mixed,mixed
+The Hills,The Weeknd,2015,True,0.5640000000000001,0.137,mixed,mixed
+Cheerleader,OMI,2014,False,0.5760000000000001,0.41,mixed,mixed
+Can't Feel My Face,The Weeknd,2015,False,0.769,0.583,mixed,mixed
+Love Me Like You Do,Ellie Goulding,2015,False,0.659,0.272,mixed,mixed
+Take Me to Church,Hozier,2014,False,0.664,0.437,mixed,mixed
+Bad Blood,Taylor Swift,2015,False,0.655,0.221,mixed,mixed
+Lean On,Major Lazer,2015,False,0.809,0.274,mixed,mixed
+Want to Want Me,Jason Derulo,2015,False,0.68,0.656,mixed,mixed
+Shake It Off,Taylor Swift,2014,False,0.8,0.942,mixed,mixed
+Where Are Ü Now,Jack Ü,2015,False,0.781,0.197,mixed,mixed
+Fight Song,Rachel Platten,2015,False,0.6970000000000001,0.358,mixed,mixed
+679,Fetty Wap,2015,True,0.717,0.603,mixed,mixed
+Lips Are Movin,Meghan Trainor,2015,False,0.8250000000000001,0.95,mixed,mixed
+Worth It,Fifth Harmony,2015,False,0.765,0.594,mixed,mixed
+Post to Be,Omarion,2014,True,0.676,0.7010000000000001,mixed,mixed
+"Honey, I'm Good.",Andy Grammer,2014,False,0.775,0.595,mixed,mixed
+I'm Not The Only One,Sam Smith,2014,False,0.485,0.493,mixed,mixed
+Good For You,Selena Gomez,2015,True,0.678,0.212,mixed,mixed
+All About That Bass,Meghan Trainor,2015,True,0.887,0.961,mixed,mixed
+Style,Taylor Swift,2014,False,0.791,0.487,mixed,mixed
+Hotline Bling,Drake,2016,False,0.628,0.552,mixed,mixed
+Hey Mama,David Guetta,2014,False,0.73,0.525,mixed,mixed
+GDFR,Flo Rida,2014,False,0.8270000000000001,0.6900000000000001,upper,uniform
+What Do You Mean?,Justin Bieber,2015,False,0.5670000000000001,0.793,mixed,mixed
+Photograph,Ed Sheeran,2014,False,0.379,0.201,mixed,mixed
+Hello,Adele,2015,False,0.431,0.289,mixed,mixed
+Stitches,Shawn Mendes,2015,False,0.754,0.755,mixed,mixed
+Talking Body,Tove Lo,2014,True,0.761,0.114,mixed,mixed
+Jealous,Nick Jonas,2015,False,0.7010000000000001,0.38,mixed,mixed
+Time of Our Lives,Pitbull,2014,True,0.802,0.724,mixed,mixed
+Locked Away,R. City,2015,False,0.677,0.5750000000000001,mixed,mixed
+Somebody,Natalie La Rose,2014,False,0.52,0.735,mixed,mixed
+FourFiveSeconds,Rihanna,2015,False,0.272,0.354,mixed,mixed
+Centuries,Fall Out Boy,2015,False,0.858,0.56,mixed,mixed
+My Way,Fetty Wap,2015,True,0.741,0.537,mixed,mixed
+Take Your Time,Sam Hunt,2014,False,0.719,0.483,mixed,mixed
+Animals,Maroon 5,2014,False,0.742,0.328,mixed,mixed
+I Don't Fuck With You,Big Sean,2015,True,0.733,0.395,mixed,mixed
+Bitch Better Have My Money,Rihanna,2015,True,0.728,0.395,mixed,mixed
+Flex,Rich Homie Quan,2015,True,0.607,0.891,mixed,mixed
+Nasty Freestyle,T-Wayne,2015,True,0.472,0.412,mixed,mixed
+Only,Nicki Minaj,2014,True,0.494,0.257,mixed,mixed
+Elastic Heart,Sia,2014,False,0.791,0.499,mixed,mixed
+Cool for the Summer,Demi Lovato,2015,True,0.61,0.336,mixed,mixed
+Renegades,X Ambassadors,2015,False,0.862,0.528,mixed,mixed
+I Don't Mind,USHER,2014,True,0.464,0.457,mixed,mixed
+Love Me Harder,Ariana Grande,2014,False,0.714,0.24,mixed,mixed
+Wildest Dreams,Taylor Swift,2014,False,0.6880000000000001,0.465,mixed,mixed
+Stay With Me,Sam Smith,2014,False,0.42,0.184,mixed,mixed
+You Know You Like It,DJ Snake,2014,False,0.725,0.247,mixed,mixed
+Uma Thurman,Fall Out Boy,2015,False,0.962,0.676,mixed,mixed
+7/11,Beyoncé,2014,False,0.705,0.56,mixed,mixed
+The Heart Wants What It Wants,Selena Gomez,2014,False,0.789,0.621,mixed,mixed
+Girl Crush,Little Big Town,2014,False,0.225,0.355,mixed,mixed
+Slow Motion,Trey Songz,2015,False,0.408,0.291,mixed,mixed
+Drag Me Down,One Direction,2015,False,0.711,0.606,mixed,mixed
+Truffle Butter,Nicki Minaj,2014,True,0.667,0.522,mixed,mixed
+One Last Time,Ariana Grande,2014,False,0.593,0.104,mixed,mixed
+Chains,Nick Jonas,2015,False,0.611,0.121,mixed,mixed
+All Eyes on You,Meek Mill,2015,True,0.658,0.251,mixed,mixed
+No Type,Rae Sremmurd,2015,True,0.486,0.239,mixed,mixed
+Riptide,Vance Joy,2013,False,0.731,0.51,mixed,mixed
+Classic Man,Jidenna,2015,True,0.585,0.585,mixed,mixed
+Ex's & Oh's,Elle King,2014,False,0.896,0.461,mixed,mixed
+Dear Future Husband,Meghan Trainor,2015,False,0.782,0.8320000000000001,mixed,mixed
+Marvin Gaye,Charlie Puth,2015,False,0.621,0.8290000000000001,mixed,mixed
+Like I'm Gonna Lose You,Meghan Trainor,2015,False,0.53,0.417,mixed,mixed
+Habits,Tove Lo,2014,False,0.65,0.347,mixed,mixed
+The Hanging Tree,James Newton Howard,2014,False,0.0743,0.145,mixed,mixed
+CoCo,O.T. Genasis,2014,True,0.628,0.178,mixed,mixed
+Bang Bang,Jessie J,2014,False,0.747,0.7000000000000001,mixed,mixed
+Lay Me Down,Sam Smith,2014,False,0.332,0.172,mixed,mixed
+Tuesday,ILOVEMAKONNEN,2014,True,0.664,0.472,mixed,mixed
+Hit the Quan,iLoveMemphis,2015,False,0.488,0.625,mixed,mixed
+Downtown,Macklemore & Ryan Lewis,2016,True,0.609,0.707,mixed,mixed
+House Party,Sam Hunt,2014,False,0.861,0.859,mixed,mixed
+Ayo,Chris Brown,2015,True,0.5630000000000001,0.682,mixed,mixed
+Kick The Dust Up,Luke Bryan,2015,False,0.86,0.8180000000000001,mixed,mixed
+Blessings,Big Sean,2015,True,0.621,0.15,mixed,mixed
+Budapest,George Ezra,2014,False,0.451,0.406,mixed,mixed
+Chandelier,Sia,2014,False,0.787,0.5720000000000001,mixed,mixed
+Heartbeat Song,Kelly Clarkson,2015,False,0.798,0.479,mixed,mixed
+Don't,Ed Sheeran,2014,False,0.608,0.849,mixed,mixed
+Ghost,Ella Henderson,2014,False,0.836,0.486,mixed,mixed
+Here,Alessia Cara,2015,False,0.8210000000000001,0.331,mixed,mixed
+Waves,Mr. Probz,2014,False,0.51,0.45,mixed,mixed
+El Perdón,Nicky Jam,2017,False,0.719,0.656,mixed,mixed
+She Knows,Ne-Yo,2015,True,0.5720000000000001,0.5740000000000001,mixed,mixed
+Night Changes,One Direction,2014,False,0.52,0.37,mixed,mixed
+Back To Back,Drake,2015,True,0.48,0.382,mixed,mixed
+How Deep Is Your Love,Calvin Harris,2015,False,0.868,0.336,mixed,mixed
+Love Yourself,Justin Bieber,2015,False,0.378,0.515,mixed,mixed
+Sorry,Justin Bieber,2015,False,0.76,0.41,mixed,mixed
+One Dance,Drake,2016,False,0.625,0.37,mixed,mixed
+Work,Rihanna,2016,True,0.534,0.558,mixed,mixed
+Stressed Out,Twenty One Pilots,2015,False,0.637,0.648,mixed,mixed
+Panda,Desiigner,2016,True,0.731,0.266,mixed,mixed
+Hello,Adele,2015,False,0.431,0.289,mixed,mixed
+Don't Let Me Down,The Chainsmokers,2016,False,0.869,0.422,mixed,mixed
+CAN'T STOP THE FEELING!,Justin Timberlake,2016,False,0.8300000000000001,0.7020000000000001,upper,uniform
+Closer,The Chainsmokers,2016,False,0.524,0.661,mixed,mixed
+Cheap Thrills,Sia,2016,False,0.8,0.728,mixed,mixed
+7 Years,Lukas Graham,2016,False,0.473,0.34,mixed,mixed
+Needed Me,Rihanna,2016,True,0.314,0.296,mixed,mixed
+My House,Flo Rida,2015,False,0.7020000000000001,0.74,mixed,mixed
+I Took A Pill In Ibiza,Mike Posner,2016,True,0.714,0.71,mixed,mixed
+Work from Home,Fifth Harmony,2016,False,0.585,0.593,mixed,mixed
+This Is What You Came For,Calvin Harris,2016,False,0.927,0.465,mixed,mixed
+Cake By The Ocean,DNCE,2016,True,0.753,0.896,mixed,mixed
+"Me, Myself & I",G-Eazy,2015,True,0.674,0.389,mixed,mixed
+Ride,Twenty One Pilots,2015,False,0.713,0.5660000000000001,mixed,mixed
+Heathens,Twenty One Pilots,2016,False,0.476,0.555,mixed,mixed
+PILLOWTALK,ZAYN,2016,True,0.7020000000000001,0.429,upper,uniform
+Stitches,Shawn Mendes,2015,False,0.754,0.755,mixed,mixed
+Hotline Bling,Drake,2016,False,0.628,0.552,mixed,mixed
+Cold Water,Major Lazer,2016,False,0.798,0.501,mixed,mixed
+Send My Love,Adele,2015,False,0.532,0.5650000000000001,mixed,mixed
+Roses,The Chainsmokers,2015,False,0.802,0.343,mixed,mixed
+Treat You Better,Shawn Mendes,2017,False,0.8190000000000001,0.747,mixed,mixed
+Too Good,Drake,2016,True,0.653,0.397,mixed,mixed
+Low Life,Future,2016,True,0.331,0.102,mixed,mixed
+What Do You Mean?,Justin Bieber,2015,False,0.5670000000000001,0.793,mixed,mixed
+The Hills,The Weeknd,2015,True,0.5640000000000001,0.137,mixed,mixed
+Just Like Fire,P!nk,2016,False,0.7020000000000001,0.523,mixed,mixed
+Broccoli,DRAM,2016,True,0.525,0.708,mixed,mixed
+Don't,Bryson Tiller,2015,True,0.356,0.189,mixed,mixed
+Dangerous Woman,Ariana Grande,2016,False,0.602,0.289,mixed,mixed
+Jumpman,Drake,2015,True,0.553,0.656,mixed,mixed
+"i hate u, i love u",gnash,2016,True,0.275,0.18,lower,uniform
+Here,Alessia Cara,2015,False,0.8210000000000001,0.331,mixed,mixed
+Same Old Love,Selena Gomez,2015,False,0.593,0.438,mixed,mixed
+Controlla,Drake,2016,True,0.468,0.349,mixed,mixed
+Like I'm Gonna Lose You,Meghan Trainor,2015,False,0.53,0.417,mixed,mixed
+One Call Away,Charlie Puth,2016,False,0.613,0.47,mixed,mixed
+Let It Go,James Bay,2014,False,0.286,0.263,mixed,mixed
+NO,Meghan Trainor,2017,False,0.803,0.657,upper,uniform
+Never Forget You,Zara Larsson,2017,False,0.732,0.276,mixed,mixed
+Let Me Love You,DJ Snake,2016,False,0.716,0.163,mixed,mixed
+Don't Mind,Kent Jones,2016,True,0.771,0.6900000000000001,mixed,mixed
+H.O.L.Y.,Florida Georgia Line,2016,False,0.666,0.5640000000000001,upper,uniform
+We Don't Talk Anymore,Charlie Puth,2016,False,0.5630000000000001,0.352,mixed,mixed
+Into You,Ariana Grande,2016,False,0.734,0.37,mixed,mixed
+Gold,Kiiara,2015,False,0.412,0.408,mixed,mixed
+Exchange,Bryson Tiller,2015,True,0.433,0.276,mixed,mixed
+679,Fetty Wap,2015,True,0.717,0.603,mixed,mixed
+oui,Jeremih,2015,False,0.724,0.604,lower,uniform
+Hands To Myself,Selena Gomez,2015,False,0.499,0.466,mixed,mixed
+2 Phones,Kevin Gates,2016,True,0.681,0.554,mixed,mixed
+Starboy,The Weeknd,2016,True,0.587,0.486,mixed,mixed
+For Free,DJ Khaled,2016,True,0.5710000000000001,0.498,mixed,mixed
+Never Be Like You,Flume,2016,True,0.557,0.296,mixed,mixed
+In The Night,The Weeknd,2015,True,0.68,0.539,mixed,mixed
+Me Too,Meghan Trainor,2017,False,0.6940000000000001,0.833,mixed,mixed
+Ex's & Oh's,Elle King,2014,False,0.896,0.461,mixed,mixed
+Die A Happy Man,Thomas Rhett,2015,False,0.389,0.4,mixed,mixed
+White Iverson,Post Malone,2016,True,0.562,0.309,mixed,mixed
+Close,Nick Jonas,2016,False,0.623,0.401,mixed,mixed
+Unsteady,X Ambassadors,2015,False,0.665,0.199,mixed,mixed
+Sucker for Pain,Lil Wayne,2016,True,0.786,0.739,mixed,mixed
+Down In the DM,Yo Gotti,2016,True,0.634,0.323,mixed,mixed
+LUV,Tory Lanez,2016,True,0.528,0.252,upper,uniform
+Sorry,Beyoncé,2016,True,0.598,0.356,mixed,mixed
+Can't Feel My Face,The Weeknd,2015,False,0.769,0.583,mixed,mixed
+Hymn for the Weekend,Coldplay,2016,False,0.849,0.427,mixed,mixed
+Say It,Tory Lanez,2016,True,0.529,0.247,mixed,mixed
+Antidote,Travis Scott,2015,True,0.526,0.131,mixed,mixed
+Lost Boy,Ruth B.,2015,False,0.0565,0.348,mixed,mixed
+Side To Side,Ariana Grande,2016,True,0.736,0.613,mixed,mixed
+"Sit Still, Look Pretty",Daya,2016,False,0.74,0.543,mixed,mixed
+Wildest Dreams,Taylor Swift,2014,False,0.6880000000000001,0.465,mixed,mixed
+Middle,DJ Snake,2016,False,0.6950000000000001,0.224,mixed,mixed
+On My Mind,Ellie Goulding,2015,False,0.705,0.743,mixed,mixed
+Pop Style,Drake,2016,True,0.488,0.0644,mixed,mixed
+When We Were Young,Adele,2015,False,0.595,0.264,mixed,mixed
+Hide Away,Daya,2016,False,0.8,0.464,mixed,mixed
+Lean On,Major Lazer,2015,False,0.809,0.274,mixed,mixed
+I Know What You Did Last Summer,Shawn Mendes,2015,False,0.761,0.743,mixed,mixed
+All The Way Up,Fat Joe,2016,True,0.721,0.393,mixed,mixed
+Watch Me,Silentó,2015,False,0.759,0.962,mixed,mixed
+Back To Sleep,Chris Brown,2015,True,0.639,0.7020000000000001,mixed,mixed
+No Limit,USHER,2016,True,0.523,0.282,mixed,mixed
+Cut It,O.T. Genasis,2015,True,0.673,0.231,mixed,mixed
+Really Really,Kevin Gates,2016,True,0.666,0.278,mixed,mixed
+All In My Head,Fifth Harmony,2016,False,0.791,0.755,mixed,mixed
+Starving,Hailee Steinfeld,2016,False,0.616,0.508,mixed,mixed
+Adventure of a Lifetime,Coldplay,2015,False,0.924,0.53,mixed,mixed
+Humble And Kind,Tim McGraw,2015,False,0.48,0.148,mixed,mixed
+Wicked,Future,2016,True,0.679,0.205,mixed,mixed
+Tiimmy Turner,Desiigner,2016,True,0.725,0.304,mixed,mixed
+See You Again,Wiz Khalifa,2015,False,0.481,0.283,mixed,mixed
+Perfect,One Direction,2015,False,0.8230000000000001,0.396,mixed,mixed
+Shape of You,Ed Sheeran,2017,False,0.652,0.931,mixed,mixed
+Despacito,Luis Fonsi,2017,False,0.8160000000000001,0.8160000000000001,mixed,mixed
+That's What I Like,Bruno Mars,2016,False,0.56,0.86,mixed,mixed
+HUMBLE.,Kendrick Lamar,2017,True,0.621,0.421,upper,uniform
+Something Just Like This,The Chainsmokers,2017,False,0.635,0.446,mixed,mixed
+Bad and Boujee,Migos,2017,True,0.666,0.168,mixed,mixed
+Closer,The Chainsmokers,2016,False,0.524,0.661,mixed,mixed
+Body Like A Back Road,Sam Hunt,2017,False,0.458,0.661,mixed,mixed
+Believer,Imagine Dragons,2017,False,0.78,0.719,mixed,mixed
+Congratulations,Post Malone,2016,True,0.804,0.492,mixed,mixed
+Say You Won't Let Go,James Arthur,2016,False,0.557,0.494,mixed,mixed
+I'm the One,DJ Khaled,2017,True,0.668,0.811,mixed,mixed
+XO Tour Llif3,Lil Uzi Vert,2017,True,0.75,0.401,mixed,mixed
+Mask Off,Future,2017,True,0.434,0.281,mixed,mixed
+Unforgettable,French Montana,2017,True,0.769,0.733,mixed,mixed
+24K Magic,Bruno Mars,2016,False,0.803,0.632,mixed,mixed
+Stay,Zedd,2017,False,0.622,0.544,mixed,mixed
+Wild Thoughts,DJ Khaled,2017,True,0.672,0.632,mixed,mixed
+Black Beatles,Rae Sremmurd,2016,True,0.632,0.355,mixed,mixed
+Starboy,The Weeknd,2016,True,0.587,0.486,mixed,mixed
+Location,Khalid,2017,False,0.449,0.326,mixed,mixed
+Attention,Charlie Puth,2017,False,0.626,0.777,mixed,mixed
+There's Nothing Holdin' Me Back,Shawn Mendes,2017,False,0.8130000000000001,0.969,mixed,mixed
+Bodak Yellow,Cardi B,2017,True,0.723,0.458,mixed,mixed
+Redbone,Childish Gambino,2016,True,0.356,0.607,mixed,mixed
+I Don’t Wanna Live Forever,ZAYN,2017,False,0.442,0.0973,mixed,mixed
+It Ain't Me,Kygo,2017,False,0.533,0.515,mixed,mixed
+iSpy,KYLE,2016,True,0.653,0.672,mixed,mixed
+Issues,Julia Michaels,2017,False,0.415,0.455,mixed,mixed
+Scars To Your Beautiful,Alessia Cara,2015,False,0.739,0.451,mixed,mixed
+1-800-273-8255,Logic,2017,True,0.5740000000000001,0.357,mixed,mixed
+Slow Hands,Niall Horan,2017,False,0.423,0.851,mixed,mixed
+Love On The Brain,Rihanna,2016,True,0.637,0.378,mixed,mixed
+I Feel It Coming,The Weeknd,2016,False,0.8190000000000001,0.585,mixed,mixed
+Bounce Back,Big Sean,2017,True,0.5750000000000001,0.273,mixed,mixed
+Strip That Down,Liam Payne,2017,False,0.497,0.542,mixed,mixed
+Fake Love,Drake,2017,True,0.481,0.613,mixed,mixed
+Don't Wanna Know,Maroon 5,2017,False,0.62,0.427,mixed,mixed
+Look What You Made Me Do,Taylor Swift,2017,False,0.671,0.474,mixed,mixed
+Castle on the Hill,Ed Sheeran,2017,False,0.834,0.471,mixed,mixed
+Bad Things,Machine Gun Kelly,2017,False,0.6910000000000001,0.305,mixed,mixed
+Paris,The Chainsmokers,2017,False,0.658,0.219,mixed,mixed
+Side To Side,Ariana Grande,2016,True,0.736,0.613,mixed,mixed
+Rockabye,Clean Bandit,2016,False,0.763,0.742,mixed,mixed
+Feel It Still,Portugal. The Man,2017,False,0.798,0.771,mixed,mixed
+Let Me Love You,DJ Snake,2016,False,0.716,0.163,mixed,mixed
+Sorry Not Sorry,Demi Lovato,2017,True,0.635,0.873,mixed,mixed
+Bank Account,21 Savage,2017,True,0.347,0.376,mixed,mixed
+CAN'T STOP THE FEELING!,Justin Timberlake,2016,False,0.8300000000000001,0.7020000000000001,upper,uniform
+Mi Gente,J Balvin,2017,False,0.714,0.434,mixed,mixed
+Thunder,Imagine Dragons,2017,False,0.8260000000000001,0.241,mixed,mixed
+T-Shirt,Migos,2017,True,0.687,0.486,mixed,mixed
+Rake It Up,Yo Gotti,2017,True,0.444,0.53,mixed,mixed
+Mercy,Shawn Mendes,2017,False,0.662,0.356,mixed,mixed
+Tunnel Vision,Kodak Black,2017,True,0.489,0.231,mixed,mixed
+rockstar,Post Malone,2017,True,0.531,0.141,lower,uniform
+In Case You Didn't Know,Brett Young,2017,False,0.536,0.434,mixed,mixed
+Heathens,Twenty One Pilots,2016,False,0.396,0.548,mixed,mixed
+Now Or Never,Halsey,2017,False,0.585,0.447,mixed,mixed
+Caroline,Aminé,2017,True,0.335,0.707,mixed,mixed
+Rolex,Ayo & Teo,2017,False,0.886,0.789,mixed,mixed
+DNA.,Kendrick Lamar,2017,True,0.523,0.422,upper,uniform
+Juju on That Beat,Zay Hilfigerrr,2016,False,0.887,0.78,mixed,mixed
+Swang,Rae Sremmurd,2016,True,0.314,0.166,mixed,mixed
+Passionfruit,Drake,2017,True,0.463,0.364,mixed,mixed
+LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,2017,True,0.535,0.419,upper,uniform
+Praying,Kesha,2017,False,0.381,0.325,mixed,mixed
+goosebumps,Travis Scott,2016,True,0.728,0.43,lower,uniform
+Cold,Maroon 5,2017,True,0.718,0.52,mixed,mixed
+Broccoli,DRAM,2016,True,0.525,0.708,mixed,mixed
+Slide,Calvin Harris,2017,True,0.795,0.511,mixed,mixed
+What Ifs,Kane Brown,2016,False,0.799,0.687,mixed,mixed
+Chained To The Rhythm,Katy Perry,2017,False,0.798,0.485,mixed,mixed
+Feels,Calvin Harris,2017,True,0.745,0.872,mixed,mixed
+All Time Low,Jon Bellion,2016,True,0.5670000000000001,0.505,mixed,mixed
+Hurricane,Luke Combs,2017,False,0.8130000000000001,0.515,mixed,mixed
+Too Good At Goodbyes,Sam Smith,2017,False,0.372,0.476,mixed,mixed
+Young Dumb & Broke,Khalid,2017,False,0.539,0.394,mixed,mixed
+Magnolia,Playboi Carti,2017,True,0.582,0.443,mixed,mixed
+Love Galore,SZA,2017,True,0.594,0.409,mixed,mixed
+Drowning,A Boogie Wit da Hoodie,2017,True,0.81,0.8140000000000001,mixed,mixed
+Starving,Hailee Steinfeld,2016,False,0.616,0.508,mixed,mixed
+Both,Gucci Mane,2016,True,0.405,0.344,mixed,mixed
+What About Us,P!nk,2017,False,0.594,0.187,mixed,mixed
+Swalla,Jason Derulo,2017,True,0.8170000000000001,0.782,mixed,mixed
+Slippery,Migos,2017,True,0.675,0.749,mixed,mixed
+Sign of the Times,Harry Styles,2017,False,0.5750000000000001,0.209,mixed,mixed
+Water Under The Bridge,Adele,2015,False,0.833,0.537,mixed,mixed
+Malibu,Miley Cyrus,2017,False,0.781,0.343,mixed,mixed
+Down,Marian Hill,2016,False,0.357,0.0661,mixed,mixed
+No Promises,Cheat Codes,2017,False,0.619,0.58,mixed,mixed
+Treat You Better,Shawn Mendes,2017,False,0.8190000000000001,0.747,mixed,mixed
+I Get the Bag,Gucci Mane,2017,True,0.633,0.425,mixed,mixed
+Small Town Boy,Dustin Lynch,2017,False,0.743,0.673,mixed,mixed
+Everyday We Lit,YFN Lucci,2017,True,0.646,0.589,mixed,mixed
+Havana,Camila Cabello,2017,False,0.517,0.418,mixed,mixed
+What Lovers Do,Maroon 5,2017,False,0.612,0.42,mixed,mixed
+do re mi,blackbear,2017,True,0.593,0.17,lower,uniform
+Look At Me!,XXXTENTACION,2017,True,0.726,0.349,mixed,mixed
+The Fighter,Keith Urban,2016,False,0.845,0.761,mixed,mixed
+God's Plan,Drake,2018,True,0.449,0.357,mixed,mixed
+Perfect,Ed Sheeran,2017,False,0.448,0.168,mixed,mixed
+Meant to Be,Bebe Rexha,2017,False,0.783,0.579,mixed,mixed
+Havana,Camila Cabello,2018,False,0.523,0.394,mixed,mixed
+rockstar,Post Malone,2018,True,0.52,0.129,lower,uniform
+Psycho,Post Malone,2018,True,0.56,0.459,mixed,mixed
+I Like It,Cardi B,2018,True,0.726,0.65,mixed,mixed
+The Middle,Zedd,2018,False,0.657,0.437,mixed,mixed
+In My Feelings,Drake,2018,True,0.626,0.35,mixed,mixed
+Girls Like You,Maroon 5,2018,True,0.541,0.448,mixed,mixed
+Nice For What,Drake,2018,True,0.909,0.758,mixed,mixed
+Lucid Dreams,Juice WRLD,2018,True,0.5660000000000001,0.218,mixed,mixed
+Better Now,Post Malone,2018,True,0.578,0.341,mixed,mixed
+Finesse,Bruno Mars,2017,False,0.859,0.926,mixed,mixed
+Boo'd Up,Ella Mai,2018,False,0.843,0.22,mixed,mixed
+New Rules,Dua Lipa,2017,False,0.7000000000000001,0.608,mixed,mixed
+SAD!,XXXTENTACION,2018,True,0.613,0.473,upper,uniform
+Never Be the Same,Camila Cabello,2018,False,0.713,0.243,mixed,mixed
+Love Lies,Khalid,2018,False,0.648,0.338,mixed,mixed
+no tears left to cry,Ariana Grande,2018,False,0.713,0.354,lower,uniform
+Mine,Bazzi,2018,True,0.789,0.717,mixed,mixed
+Thunder,Imagine Dragons,2017,False,0.8220000000000001,0.288,mixed,mixed
+Look Alive,BlocBoy JB,2018,True,0.581,0.595,mixed,mixed
+Delicate,Taylor Swift,2017,False,0.404,0.0499,mixed,mixed
+Yes Indeed,Lil Baby,2018,True,0.346,0.562,mixed,mixed
+FRIENDS,Marshmello,2018,True,0.88,0.534,upper,uniform
+Bad At Love,Halsey,2017,False,0.751,0.612,mixed,mixed
+Taste,Tyga,2018,True,0.559,0.342,mixed,mixed
+Let You Down,NF,2017,False,0.714,0.464,mixed,mixed
+No Limit,G-Eazy,2017,True,0.771,0.405,mixed,mixed
+FEFE,6ix9ine,2018,True,0.387,0.376,upper,uniform
+Tequila,Dan + Shay,2018,False,0.594,0.503,mixed,mixed
+Feel It Still,Portugal. The Man,2017,False,0.795,0.754,mixed,mixed
+MotorSport,Migos,2018,True,0.518,0.188,mixed,mixed
+I Like Me Better,Lauv,2017,False,0.505,0.419,mixed,mixed
+Youngblood,5 Seconds of Summer,2018,False,0.854,0.152,mixed,mixed
+Whatever It Takes,Imagine Dragons,2017,False,0.655,0.556,mixed,mixed
+Ric Flair Drip,Offset,2017,True,0.428,0.333,mixed,mixed
+I Fall Apart,Post Malone,2016,True,0.538,0.291,mixed,mixed
+Pray For Me,The Weeknd,2018,True,0.677,0.188,mixed,mixed
+Back To You,Selena Gomez,2018,False,0.724,0.508,mixed,mixed
+SICKO MODE,Travis Scott,2018,True,0.73,0.446,upper,uniform
+Walk It Talk It,Migos,2018,True,0.633,0.395,mixed,mixed
+Gucci Gang,Lil Pump,2017,True,0.523,0.6990000000000001,mixed,mixed
+Him & I,G-Eazy,2017,True,0.731,0.191,mixed,mixed
+In My Blood,Shawn Mendes,2018,False,0.712,0.487,mixed,mixed
+All The Stars,Kendrick Lamar,2018,True,0.633,0.552,mixed,mixed
+Stir Fry,Migos,2018,True,0.8160000000000001,0.508,mixed,mixed
+Too Good At Goodbyes,Sam Smith,2017,False,0.372,0.476,mixed,mixed
+LOVE. FEAT. ZACARI.,Kendrick Lamar,2017,True,0.585,0.779,upper,uniform
+This Is America,Childish Gambino,2018,True,0.463,0.549,mixed,mixed
+Nonstop,Drake,2018,True,0.412,0.423,mixed,mixed
+Heaven,Kane Brown,2017,False,0.556,0.521,mixed,mixed
+Bodak Yellow,Cardi B,2018,True,0.7030000000000001,0.485,mixed,mixed
+Freaky Friday,Lil Dicky,2018,True,0.599,0.755,mixed,mixed
+GUMMO,6ix9ine,2018,True,0.775,0.635,upper,uniform
+Plug Walk,Rich The Kid,2018,True,0.519,0.158,mixed,mixed
+Wait,Maroon 5,2018,False,0.603,0.452,mixed,mixed
+Be Careful,Cardi B,2018,True,0.5680000000000001,0.535,mixed,mixed
+Wolves,Selena Gomez,2017,False,0.804,0.306,mixed,mixed
+Bartier Cardi,Cardi B,2018,True,0.524,0.109,mixed,mixed
+God is a woman,Ariana Grande,2018,True,0.658,0.268,mixed,mixed
+BIG BANK,YG,2018,True,0.346,0.112,upper,uniform
+Sorry Not Sorry,Demi Lovato,2017,True,0.635,0.873,mixed,mixed
+How Long,Charlie Puth,2018,False,0.561,0.811,mixed,mixed
+Lights Down Low,MAX,2016,False,0.5710000000000001,0.635,mixed,mixed
+Young Dumb & Broke,Khalid,2017,False,0.539,0.394,mixed,mixed
+One Kiss,Calvin Harris,2018,False,0.862,0.592,mixed,mixed
+Natural,Imagine Dragons,2018,False,0.611,0.22,mixed,mixed
+You Make It Easy,Jason Aldean,2018,False,0.5740000000000001,0.406,mixed,mixed
+Shape of You,Ed Sheeran,2017,False,0.652,0.931,mixed,mixed
+I Get the Bag,Gucci Mane,2017,True,0.633,0.425,mixed,mixed
+No Brainer,DJ Khaled,2018,True,0.76,0.639,mixed,mixed
+Plain Jane REMIX,A$AP Ferg,2017,True,0.839,0.383,mixed,mixed
+Sky Walker,Miguel,2017,True,0.506,0.183,mixed,mixed
+Marry Me,Thomas Rhett,2017,False,0.412,0.474,mixed,mixed
+Eastside,benny blanco,2018,False,0.68,0.319,mixed,mixed
+Call Out My Name,The Weeknd,2018,False,0.599,0.165,mixed,mixed
+King's Dead,Jay Rock,2018,True,0.724,0.407,mixed,mixed
+Happier,Marshmello,2018,False,0.792,0.671,mixed,mixed
+Te Boté,Nio Garcia,2018,True,0.675,0.442,mixed,mixed
+Simple,Florida Georgia Line,2018,False,0.889,0.881,mixed,mixed
+Lemon,N.E.R.D,2017,True,0.727,0.201,mixed,mixed
+1-800-273-8255,Logic,2017,True,0.5740000000000001,0.357,mixed,mixed
+Say Something,Justin Timberlake,2018,False,0.632,0.372,mixed,mixed
+I'm Upset,Drake,2018,True,0.586,0.492,mixed,mixed
+Get Along,Kenny Chesney,2018,False,0.805,0.322,mixed,mixed
+Moonlight,XXXTENTACION,2018,True,0.537,0.711,mixed,mixed
+What Lovers Do,Maroon 5,2018,False,0.597,0.419,mixed,mixed
+X,Nicky Jam,2018,False,0.773,0.711,upper,uniform
+Outside Today,YoungBoy Never Broke Again,2018,True,0.666,0.0585,mixed,mixed
+Trip,Ella Mai,2018,False,0.61,0.358,mixed,mixed
+Dura,Daddy Yankee,2018,False,0.84,0.839,mixed,mixed
+changes,XXXTENTACION,2018,False,0.308,0.52,lower,uniform
+Mercy,Brett Young,2017,False,0.367,0.219,mixed,mixed
+One Number Away,Luke Combs,2017,False,0.781,0.527,mixed,mixed
+Powerglide,Rae Sremmurd,2018,True,0.8310000000000001,0.584,mixed,mixed
+IDGAF,Dua Lipa,2017,True,0.544,0.51,upper,uniform
+Mi Gente,J Balvin,2017,False,0.716,0.469,mixed,mixed
+Believer,Imagine Dragons,2017,False,0.78,0.666,mixed,mixed
+Old Town Road,Lil Nas X,2019,False,0.619,0.639,mixed,mixed
+Sunflower,Post Malone,2018,False,0.479,0.913,mixed,mixed
+Without Me,Halsey,2018,True,0.488,0.533,mixed,mixed
+bad guy,Billie Eilish,2019,False,0.425,0.562,lower,uniform
+Wow.,Post Malone,2018,True,0.539,0.385,mixed,mixed
+Happier,Marshmello,2018,False,0.792,0.671,mixed,mixed
+7 rings,Ariana Grande,2019,True,0.321,0.319,lower,uniform
+Talk,Khalid,2019,False,0.4,0.346,mixed,mixed
+SICKO MODE,Travis Scott,2018,True,0.73,0.446,upper,uniform
+Sucker,Jonas Brothers,2019,False,0.734,0.952,mixed,mixed
+High Hopes,Panic! At The Disco,2018,False,0.904,0.681,mixed,mixed
+"thank u, next",Ariana Grande,2018,True,0.647,0.435,lower,uniform
+Truth Hurts,Lizzo,2019,True,0.624,0.412,mixed,mixed
+Dancing With A Stranger,Sam Smith,2019,False,0.52,0.347,mixed,mixed
+Señorita,Shawn Mendes,2019,False,0.54,0.75,mixed,mixed
+I Don't Care,Ed Sheeran & Justin Bieber,2019,False,0.675,0.842,mixed,mixed
+Eastside,benny blanco,2018,False,0.68,0.319,mixed,mixed
+Going Bad,Meek Mill,2018,True,0.496,0.544,mixed,mixed
+Shallow,Lady Gaga,2018,False,0.385,0.323,mixed,mixed
+Better,Khalid,2018,True,0.585,0.116,mixed,mixed
+No Guidance,Chris Brown,2019,True,0.454,0.137,mixed,mixed
+Girls Like You,Maroon 5,2018,True,0.541,0.448,mixed,mixed
+Sweet but Psycho,Ava Max,2018,False,0.704,0.628,mixed,mixed
+Suge,DaBaby,2019,True,0.662,0.844,mixed,mixed
+MIDDLE CHILD,J. Cole,2019,True,0.364,0.463,upper,uniform
+Drip Too Hard,Lil Baby,2018,True,0.662,0.389,mixed,mixed
+Someone You Loved,Lewis Capaldi,2019,False,0.405,0.446,mixed,mixed
+Ransom,Lil Tecca,2019,True,0.642,0.226,mixed,mixed
+If I Can't Have You,Shawn Mendes,2019,False,0.809,0.864,mixed,mixed
+Goodbyes,Post Malone,2019,True,0.653,0.175,mixed,mixed
+ZEZE,Kodak Black,2018,True,0.603,0.504,upper,uniform
+Better Now,Post Malone,2018,True,0.578,0.341,mixed,mixed
+Youngblood,5 Seconds of Summer,2018,False,0.854,0.152,mixed,mixed
+Money In The Grave,Drake,2019,True,0.502,0.101,mixed,mixed
+Speechless,Dan + Shay,2018,False,0.44,0.418,mixed,mixed
+"break up with your girlfriend, i'm bored",Ariana Grande,2019,True,0.554,0.335,lower,uniform
+Please Me,Cardi B,2019,True,0.5700000000000001,0.65,mixed,mixed
+Money,Cardi B,2018,True,0.59,0.219,mixed,mixed
+You Need To Calm Down,Taylor Swift,2019,False,0.678,0.706,mixed,mixed
+Panini,Lil Nas X,2019,False,0.594,0.475,mixed,mixed
+Look Back at It,A Boogie Wit da Hoodie,2018,True,0.587,0.536,mixed,mixed
+a lot,21 Savage,2018,True,0.636,0.274,lower,uniform
+ME!,Taylor Swift,2019,False,0.839,0.657,upper,uniform
+MIA,Bad Bunny,2018,False,0.539,0.158,upper,uniform
+Pop Out,Polo G,2019,True,0.621,0.254,mixed,mixed
+Beautiful Crazy,Luke Combs,2018,False,0.402,0.382,mixed,mixed
+Thotiana,Blueface,2018,True,0.382,0.391,mixed,mixed
+Lucid Dreams,Juice WRLD,2018,True,0.5660000000000001,0.218,mixed,mixed
+Mo Bamba,Sheck Wes,2018,True,0.625,0.261,mixed,mixed
+Beautiful People,Ed Sheeran,2019,False,0.648,0.548,mixed,mixed
+Wake Up in the Sky,Gucci Mane,2018,True,0.578,0.367,mixed,mixed
+Whiskey Glasses,Morgan Wallen,2018,False,0.68,0.707,mixed,mixed
+God's Country,Blake Shelton,2019,False,0.752,0.217,mixed,mixed
+Be Alright,Dean Lewis,2018,True,0.586,0.443,mixed,mixed
+Pure Water,Mustard,2019,True,0.559,0.137,mixed,mixed
+The Git Up,Blanco Brown,2019,False,0.678,0.811,mixed,mixed
+Taki Taki,DJ Snake,2018,True,0.801,0.617,mixed,mixed
+Close To Me,Ellie Goulding,2018,True,0.758,0.493,mixed,mixed
+Envy Me,Calboy,2018,True,0.481,0.581,mixed,mixed
+You Say,Lauren Daigle,2018,False,0.632,0.0797,mixed,mixed
+"Hey Look Ma, I Made It",Panic! At The Disco,2018,False,0.833,0.58,mixed,mixed
+Circles,Post Malone,2019,False,0.762,0.553,mixed,mixed
+Beer Never Broke My Heart,Luke Combs,2019,False,0.863,0.64,mixed,mixed
+The London,Young Thug,2019,True,0.586,0.179,mixed,mixed
+Con Calma,Daddy Yankee,2019,False,0.868,0.613,mixed,mixed
+Murder on My Mind,YNW Melly,2018,True,0.73,0.74,mixed,mixed
+when the party's over,Billie Eilish,2019,False,0.111,0.198,lower,uniform
+Act Up,City Girls,2018,True,0.638,0.313,mixed,mixed
+I Like It,Cardi B,2018,True,0.726,0.65,mixed,mixed
+Trampoline,SHAED,2018,False,0.412,0.537,mixed,mixed
+Leave Me Alone,Flipp Dinero,2018,True,0.743,0.742,mixed,mixed
+breathin,Ariana Grande,2018,True,0.656,0.364,lower,uniform
+bury a friend,Billie Eilish,2019,False,0.389,0.196,lower,uniform
+Close Friends,Lil Baby,2018,True,0.578,0.6980000000000001,mixed,mixed
+Baby Shark,Pinkfong,2017,False,0.886,0.777,mixed,mixed
+My Type,Saweetie,2019,True,0.811,0.587,mixed,mixed
+Worth It,YK Osiris,2019,False,0.528,0.422,mixed,mixed
+Only Human,Jonas Brothers,2019,False,0.496,0.874,mixed,mixed
+Knockin' Boots,Luke Bryan,2019,False,0.682,0.634,mixed,mixed
+Trip,Ella Mai,2018,False,0.61,0.358,mixed,mixed
+Rumor,Lee Brice,2017,False,0.56,0.599,mixed,mixed
+Swervin,A Boogie Wit da Hoodie,2018,True,0.662,0.434,mixed,mixed
+How Do You Sleep?,Sam Smith,2019,False,0.682,0.345,mixed,mixed
+Baby,Quality Control,2019,True,0.463,0.46,mixed,mixed
+Look What God Gave Her,Thomas Rhett,2019,False,0.85,0.883,mixed,mixed
+Good as You,Kane Brown,2018,False,0.516,0.769,mixed,mixed
+Clout,Offset,2019,True,0.622,0.424,mixed,mixed
+Love Lies,Khalid,2018,False,0.648,0.338,mixed,mixed
+One Thing Right,Marshmello,2019,False,0.625,0.442,mixed,mixed
+Cash Shit,Megan Thee Stallion,2019,True,0.635,0.549,mixed,mixed
+Tequila,Dan + Shay,2018,False,0.581,0.494,mixed,mixed
+Shotta Flow,NLE Choppa,2019,True,0.43,0.45,mixed,mixed
+Hot Girl Summer,Megan Thee Stallion,2019,True,0.8140000000000001,0.5700000000000001,mixed,mixed
+Talk You Out Of It,Florida Georgia Line,2019,False,0.708,0.558,mixed,mixed
+Beautiful,Bazzi,2018,False,0.717,0.249,mixed,mixed
+Eyes On You,Chase Rice,2017,False,0.652,0.476,mixed,mixed
+All To Myself,Dan + Shay,2018,False,0.782,0.619,mixed,mixed
+boyfriend,Ariana Grande,2019,True,0.795,0.7020000000000001,lower,uniform
+Walk Me Home,P!nk,2019,False,0.453,0.432,mixed,mixed
+Robbery,Juice WRLD,2019,True,0.6920000000000001,0.578,mixed,mixed
+Blinding Lights,The Weeknd,2020,False,0.73,0.334,mixed,mixed
+Circles,Post Malone,2019,False,0.762,0.553,mixed,mixed
+The Box,Roddy Ricch,2019,True,0.586,0.642,mixed,mixed
+Don't Start Now,Dua Lipa,2021,False,0.793,0.679,mixed,mixed
+ROCKSTAR,DaBaby,2020,True,0.6900000000000001,0.497,upper,uniform
+Adore You,Harry Styles,2019,False,0.771,0.5690000000000001,mixed,mixed
+Life Is Good,Future,2020,True,0.609,0.508,mixed,mixed
+Memories,Maroon 5,2019,False,0.32,0.5750000000000001,mixed,mixed
+The Bones,Maren Morris,2019,False,0.5700000000000001,0.334,mixed,mixed
+Someone You Loved,Lewis Capaldi,2019,False,0.405,0.446,mixed,mixed
+Say So,Doja Cat,2019,True,0.673,0.779,mixed,mixed
+I Hope,Gabby Barrett,2020,False,0.5760000000000001,0.412,mixed,mixed
+WHATS POPPIN,Jack Harlow,2020,True,0.723,0.835,upper,uniform
+Dance Monkey,Tones And I,2019,False,0.588,0.513,mixed,mixed
+Savage Remix,Megan Thee Stallion,2020,True,0.743,0.636,mixed,mixed
+ROXANNE,Arizona Zervas,2019,True,0.601,0.457,upper,uniform
+Intentions,Justin Bieber,2020,False,0.546,0.874,mixed,mixed
+everything i wanted,Billie Eilish,2019,False,0.225,0.243,lower,uniform
+Roses,SAINt JHN,2019,True,0.724,0.898,mixed,mixed
+Watermelon Sugar,Harry Styles,2019,False,0.8160000000000001,0.557,mixed,mixed
+Before You Go,Lewis Capaldi,2019,False,0.5750000000000001,0.183,mixed,mixed
+Falling,Trevor Daniel,2018,False,0.431,0.236,mixed,mixed
+"10,000 Hours",Dan + Shay,2019,False,0.63,0.43,mixed,mixed
+WAP,Cardi B,2020,True,0.454,0.357,upper,uniform
+Ballin',Mustard,2019,True,0.545,0.244,mixed,mixed
+hot girl bummer,blackbear,2020,True,0.559,0.685,lower,uniform
+Blueberry Faygo,Lil Mosey,2020,True,0.554,0.349,mixed,mixed
+Heartless,The Weeknd,2020,True,0.746,0.252,mixed,mixed
+BOP,DaBaby,2019,True,0.787,0.836,upper,uniform
+Lose You To Love Me,Selena Gomez,2020,False,0.343,0.0978,mixed,mixed
+Good as Hell,Lizzo,2019,False,0.919,0.535,mixed,mixed
+Toosie Slide,Drake,2020,True,0.454,0.837,mixed,mixed
+Break My Heart,Dua Lipa,2021,False,0.729,0.467,mixed,mixed
+Chasin' You,Morgan Wallen,2018,False,0.591,0.489,mixed,mixed
+Savage Love,Jawsh 685,2020,True,0.481,0.761,mixed,mixed
+No Guidance,Chris Brown,2019,True,0.454,0.137,mixed,mixed
+My Oh My,Camila Cabello,2019,False,0.491,0.383,mixed,mixed
+Dynamite,BTS,2020,False,0.765,0.737,mixed,mixed
+Go Crazy,Chris Brown,2020,True,0.578,0.581,mixed,mixed
+High Fashion,Roddy Ricch,2019,True,0.499,0.511,mixed,mixed
+Laugh Now Cry Later,Drake,2020,True,0.518,0.522,mixed,mixed
+Woah,Lil Baby,2020,True,0.599,0.413,mixed,mixed
+death bed,Powfu,2020,False,0.431,0.348,lower,uniform
+Señorita,Shawn Mendes,2019,False,0.54,0.75,mixed,mixed
+HIGHEST IN THE ROOM,Travis Scott,2019,True,0.427,0.0605,upper,uniform
+bad guy,Billie Eilish,2019,False,0.425,0.562,lower,uniform
+Mood,24kGoldn,2020,True,0.722,0.756,mixed,mixed
+Rain On Me,Lady Gaga,2020,False,0.855,0.646,mixed,mixed
+For The Night,Pop Smoke,2020,True,0.586,0.347,mixed,mixed
+RITMO,Black Eyed Peas,2019,True,0.716,0.667,upper,uniform
+Heart On Ice,Rod Wave,2019,True,0.389,0.244,mixed,mixed
+Nobody But You,Blake Shelton,2019,False,0.653,0.233,mixed,mixed
+Trampoline,SHAED,2018,False,0.412,0.537,mixed,mixed
+Come & Go,Juice WRLD,2020,True,0.8140000000000001,0.535,mixed,mixed
+Truth Hurts,Lizzo,2019,True,0.624,0.412,mixed,mixed
+If the World Was Ending,JP Saxe,2019,False,0.473,0.604,mixed,mixed
+We Paid,Lil Baby,2020,True,0.542,0.5640000000000001,mixed,mixed
+Yummy,Justin Bieber,2020,False,0.506,0.497,mixed,mixed
+One Man Band,Old Dominion,2019,False,0.358,0.478,mixed,mixed
+Got What I Got,Jason Aldean,2019,False,0.58,0.303,mixed,mixed
+Sunday Best,Surfaces,2019,False,0.525,0.6940000000000001,mixed,mixed
+Godzilla,Eminem,2020,True,0.745,0.8290000000000001,mixed,mixed
+Bandit,Juice WRLD,2019,True,0.631,0.425,mixed,mixed
+Party Girl,StaySolidRocky,2020,False,0.431,0.629,mixed,mixed
+Die From A Broken Heart,Maddie & Tae,2018,False,0.514,0.414,mixed,mixed
+POPSTAR,DJ Khaled,2020,True,0.56,0.45,upper,uniform
+One Of Them Girls,Lee Brice,2020,False,0.79,0.808,mixed,mixed
+Hard To Forget,Sam Hunt,2020,False,0.6890000000000001,0.664,mixed,mixed
+One Margarita,Luke Bryan,2020,False,0.842,0.738,mixed,mixed
+Panini,Lil Nas X,2019,False,0.594,0.475,mixed,mixed
+Hot,Young Thug,2019,True,0.651,0.559,mixed,mixed
+I Hope You’re Happy Now,Carly Pearce,2020,False,0.8150000000000001,0.306,mixed,mixed
+Emotionally Scarred,Lil Baby,2020,True,0.641,0.266,mixed,mixed
+Suicidal,YNW Melly,2020,True,0.441,0.273,mixed,mixed
+The Bigger Picture,Lil Baby,2020,True,0.618,0.153,mixed,mixed
+Only Human,Jonas Brothers,2019,False,0.496,0.874,mixed,mixed
+The Woo,Pop Smoke,2020,True,0.618,0.286,mixed,mixed
+Sum 2 Prove,Lil Baby,2020,True,0.552,0.408,mixed,mixed
+Stuck with U,Ariana Grande,2020,False,0.45,0.537,mixed,mixed
+Mood Swings,Pop Smoke,2020,True,0.602,0.269,mixed,mixed
+You should be sad,Halsey,2020,True,0.585,0.324,mixed,mixed
+Dior,Pop Smoke,2019,True,0.805,0.648,mixed,mixed
+Supalonely,BENEE,2019,True,0.631,0.8170000000000001,mixed,mixed
+Even Though I'm Leaving,Luke Combs,2020,False,0.755,0.624,mixed,mixed
+THE SCOTTS,THE SCOTTS,2020,True,0.537,0.28,upper,uniform
+Juicy,Doja Cat,2019,True,0.652,0.484,mixed,mixed
+Be Like That,Kane Brown,2020,False,0.626,0.322,mixed,mixed
+Homesick,Kane Brown,2019,False,0.5,0.409,mixed,mixed
+Rags2Riches,Rod Wave,2020,True,0.252,0.227,mixed,mixed
+Bluebird,Miranda Lambert,2019,False,0.633,0.613,mixed,mixed
+Wishing Well,Juice WRLD,2020,True,0.613,0.0804,mixed,mixed
+Does To Me,Luke Combs,2020,False,0.849,0.638,mixed,mixed
+P*$$Y Fairy,Jhené Aiko,2020,True,0.519,0.35,mixed,mixed
+ily,Surf Mesa,2019,False,0.774,0.33,lower,uniform
+More Than My Hometown,Morgan Wallen,2020,False,0.882,0.5740000000000001,mixed,mixed
+Lovin' On You,Luke Combs,2020,False,0.949,0.53,mixed,mixed
+Said Sum,Moneybagg Yo,2020,True,0.667,0.274,mixed,mixed
+Slide,H.E.R.,2019,True,0.469,0.197,mixed,mixed
+Walk Em Down,NLE Choppa,2020,True,0.744,0.645,mixed,mixed
+Levitating,Dua Lipa,2020,False,0.8250000000000001,0.915,mixed,mixed
+Save Your Tears,The Weeknd,2021,False,0.8250000000000001,0.593,mixed,mixed
+Blinding Lights,The Weeknd,2020,False,0.73,0.334,mixed,mixed
+Mood,24kGoldn,2021,True,0.716,0.732,mixed,mixed
+good 4 u,Olivia Rodrigo,2021,True,0.664,0.6880000000000001,lower,uniform
+Kiss Me More,Doja Cat,2021,True,0.7010000000000001,0.742,mixed,mixed
+Leave The Door Open,Bruno Mars,2021,False,0.616,0.719,mixed,mixed
+drivers license,Olivia Rodrigo,2021,True,0.431,0.137,lower,uniform
+MONTERO,Lil Nas X,2021,True,0.508,0.758,upper,uniform
+Peaches,Justin Bieber,2021,True,0.6960000000000001,0.464,mixed,mixed
+Butter,BTS,2021,False,0.459,0.6950000000000001,mixed,mixed
+STAY,The Kid LAROI,2021,True,0.764,0.478,upper,uniform
+deja vu,Olivia Rodrigo,2021,True,0.612,0.178,lower,uniform
+positions,Ariana Grande,2020,True,0.802,0.682,lower,uniform
+Bad Habits,Ed Sheeran,2021,False,0.893,0.537,mixed,mixed
+Heat Waves,Glass Animals,2020,False,0.525,0.531,mixed,mixed
+WITHOUT YOU,The Kid LAROI,2020,True,0.413,0.467,upper,uniform
+Forever After All,Luke Combs,2020,False,0.65,0.456,mixed,mixed
+Go Crazy,Chris Brown,2020,True,0.578,0.581,mixed,mixed
+Astronaut In The Ocean,Masked Wolf,2021,True,0.6950000000000001,0.472,mixed,mixed
+34+35 Remix,Ariana Grande,2021,True,0.662,0.726,mixed,mixed
+What You Know Bout Love,Pop Smoke,2020,True,0.548,0.543,mixed,mixed
+my ex's best friend,Machine Gun Kelly,2020,True,0.675,0.298,lower,uniform
+INDUSTRY BABY,Lil Nas X,2021,True,0.704,0.894,upper,uniform
+Therefore I Am,Billie Eilish,2021,False,0.365,0.663,mixed,mixed
+Up,Cardi B,2021,True,0.795,0.8190000000000001,mixed,mixed
+Fancy Like,Walker Hayes,2021,False,0.76,0.843,mixed,mixed
+DÁKITI,Bad Bunny,2020,True,0.5730000000000001,0.145,upper,uniform
+Best Friend,Saweetie,2021,True,0.766,0.402,mixed,mixed
+RAPSTAR,Polo G,2021,True,0.536,0.437,upper,uniform
+Heartbreak Anniversary,Giveon,2020,False,0.465,0.543,mixed,mixed
+For The Night,Pop Smoke,2020,True,0.586,0.347,mixed,mixed
+Calling My Phone,Lil Tjay,2021,True,0.393,0.202,mixed,mixed
+Beautiful Mistakes,Maroon 5,2021,False,0.676,0.721,mixed,mixed
+Holy,Justin Bieber,2020,False,0.704,0.372,mixed,mixed
+On Me,Lil Baby,2020,True,0.5640000000000001,0.483,mixed,mixed
+you broke me first,Tate McRae,2020,True,0.373,0.0823,lower,uniform
+traitor,Olivia Rodrigo,2021,False,0.339,0.0849,lower,uniform
+Back in Blood,Pooh Shiesty,2020,True,0.538,0.8310000000000001,mixed,mixed
+I Hope,Gabby Barrett,2020,False,0.5760000000000001,0.412,mixed,mixed
+Dynamite,BTS,2020,False,0.765,0.737,mixed,mixed
+Wockesha,Moneybagg Yo,2021,True,0.537,0.771,mixed,mixed
+You Right,Doja Cat,2021,True,0.621,0.436,mixed,mixed
+Beat Box 2,SpotemGottem,2020,True,0.313,0.277,mixed,mixed
+Laugh Now Cry Later,Drake,2020,True,0.518,0.522,mixed,mixed
+Need to Know,Doja Cat,2021,True,0.609,0.194,mixed,mixed
+Wants and Needs,Drake,2021,True,0.449,0.1,mixed,mixed
+Way 2 Sexy,Drake,2021,True,0.597,0.331,mixed,mixed
+telepatía,Kali Uchis,2020,False,0.524,0.553,lower,uniform
+Whoopty,CJ,2020,True,0.648,0.66,mixed,mixed
+Lemonade,Internet Money,2020,True,0.66,0.471,mixed,mixed
+Good Days,SZA,2020,True,0.655,0.412,mixed,mixed
+Starting Over,Chris Stapleton,2020,False,0.538,0.318,mixed,mixed
+Body,Megan Thee Stallion,2020,True,0.732,0.469,mixed,mixed
+willow,Taylor Swift,2020,False,0.5740000000000001,0.529,lower,uniform
+Bang!,AJR,2021,False,0.526,0.654,mixed,mixed
+Better Together,Luke Combs,2019,False,0.225,0.67,mixed,mixed
+You’re Mines Still,Yung Bleu,2020,True,0.609,0.339,mixed,mixed
+EVERY CHANCE I GET,DJ Khaled,2021,True,0.727,0.227,upper,uniform
+Essence,Wizkid,2021,False,0.6910000000000001,0.581,mixed,mixed
+Chasing After You,Ryan Hurd,2021,False,0.679,0.479,mixed,mixed
+The Good Ones,Gabby Barrett,2020,False,0.552,0.331,mixed,mixed
+Leave Before You Love Me,Marshmello,2021,False,0.738,0.637,mixed,mixed
+Glad You Exist,Dan + Shay,2021,False,0.551,0.66,mixed,mixed
+Lonely,Justin Bieber,2021,True,0.241,0.0719,mixed,mixed
+Beggin',Måneskin,2017,False,0.8,0.589,mixed,mixed
+Streets,Doja Cat,2019,True,0.463,0.189,mixed,mixed
+What’s Next,Drake,2021,True,0.594,0.0628,mixed,mixed
+Famous Friends,Chris Young,2020,False,0.855,0.64,mixed,mixed
+Lil Bit,Nelly,2020,True,0.6890000000000001,0.41,mixed,mixed
+Thot Shit,Megan Thee Stallion,2021,True,0.6930000000000001,0.891,mixed,mixed
+late at night,Roddy Ricch,2021,True,0.403,0.111,lower,uniform
+Kings & Queens,Ava Max,2020,False,0.6900000000000001,0.457,mixed,mixed
+Anyone,Justin Bieber,2021,False,0.521,0.578,mixed,mixed
+Track Star,Mooski,2021,True,0.598,0.285,mixed,mixed
+Time Today,Moneybagg Yo,2021,True,0.608,0.327,mixed,mixed
+Cry Baby,Megan Thee Stallion,2020,True,0.437,0.616,mixed,mixed
+No More Parties,Coi Leray,2021,True,0.405,0.588,mixed,mixed
+What’s Your Country Song,Thomas Rhett,2021,False,0.706,0.479,mixed,mixed
+One Too Many,Keith Urban,2020,False,0.535,0.594,mixed,mixed
+Arcade,Duncan Laurence,2019,False,0.329,0.266,mixed,mixed
+Yonaguni,Bad Bunny,2021,True,0.648,0.44,mixed,mixed
+GOOD TIME,Niko Moon,2021,False,0.59,0.687,upper,uniform
+If I Didn't Love You,Jason Aldean,2021,False,0.679,0.483,mixed,mixed
+Knife Talk,Drake,2021,True,0.424,0.153,mixed,mixed
+pov,Ariana Grande,2020,False,0.534,0.173,lower,uniform
+Just the Way,Parmalee,2019,False,0.8290000000000001,0.8150000000000001,mixed,mixed
+Take My Breath,The Weeknd,2021,False,0.74,0.518,mixed,mixed
+We're Good,Dua Lipa,2021,False,0.588,0.59,mixed,mixed
+Hell Of A View,Eric Church,2020,False,0.582,0.883,mixed,mixed
+Put Your Records On,Ritt Momney,2020,False,0.491,0.151,mixed,mixed
+Happier Than Ever,Billie Eilish,2021,True,0.225,0.297,mixed,mixed
+Single Saturday Night,Cole Swindell,2020,False,0.79,0.6940000000000001,mixed,mixed
+Things a Man Oughta Know,Lainey Wilson,2021,False,0.683,0.397,mixed,mixed
+Throat Baby,BRS Kash,2020,True,0.521,0.213,mixed,mixed
+Tombstone,Rod Wave,2021,True,0.637,0.535,mixed,mixed
+Drinkin' Beer. Talkin' God. Amen.,Chase Rice,2020,False,0.678,0.724,mixed,mixed
+Todo De Ti,Rauw Alejandro,2021,True,0.718,0.342,mixed,mixed
+Heat Waves,Glass Animals,2020,False,0.525,0.531,mixed,mixed
+As It Was,Harry Styles,2022,False,0.731,0.662,mixed,mixed
+STAY,The Kid LAROI,2021,True,0.764,0.478,upper,uniform
+Easy On Me,Adele,2021,False,0.366,0.13,mixed,mixed
+Shivers,Ed Sheeran,2021,False,0.859,0.8220000000000001,mixed,mixed
+First Class,Jack Harlow,2022,True,0.582,0.332,mixed,mixed
+Big Energy,Latto,2021,True,0.807,0.8130000000000001,mixed,mixed
+Ghost,Justin Bieber,2021,False,0.741,0.441,mixed,mixed
+Super Gremlin,Kodak Black,2021,True,0.414,0.106,mixed,mixed
+Cold Heart,Elton John,2021,False,0.798,0.942,mixed,mixed
+WAIT FOR U,Future,2022,True,0.642,0.339,upper,uniform
+About Damn Time,Lizzo,2022,True,0.743,0.723,mixed,mixed
+Bad Habits,Ed Sheeran,2021,False,0.893,0.537,mixed,mixed
+THATS WHAT I WANT,Lil Nas X,2021,True,0.846,0.546,upper,uniform
+Enemy,Imagine Dragons,2021,False,0.783,0.555,mixed,mixed
+INDUSTRY BABY,Lil Nas X,2021,True,0.6910000000000001,0.892,upper,uniform
+abcdefu,GAYLE,2021,True,0.54,0.415,lower,uniform
+Need to Know,Doja Cat,2021,True,0.609,0.194,mixed,mixed
+Wasted On You,Morgan Wallen,2021,False,0.657,0.252,mixed,mixed
+Me Porto Bonito,Bad Bunny,2022,True,0.712,0.425,mixed,mixed
+Woman,Doja Cat,2021,True,0.764,0.881,mixed,mixed
+Tití Me Preguntó,Bad Bunny,2022,True,0.715,0.187,mixed,mixed
+We Don't Talk About Bruno,Carolina Gaitán - La Gaita,2021,False,0.45,0.8300000000000001,mixed,mixed
+Late Night Talking,Harry Styles,2022,False,0.728,0.901,mixed,mixed
+I Like You,Post Malone,2022,True,0.67,0.472,mixed,mixed
+You Proof,Morgan Wallen,2023,False,0.839,0.629,mixed,mixed
+Bad Habit,Steve Lacy,2022,True,0.494,0.7000000000000001,mixed,mixed
+Sunroof,Nicky Youre,2023,False,0.714,0.842,mixed,mixed
+One Right Now,Post Malone,2022,True,0.764,0.7010000000000001,mixed,mixed
+good 4 u,Olivia Rodrigo,2021,True,0.664,0.6880000000000001,lower,uniform
+Numb Little Bug,Em Beihold,2022,False,0.527,0.638,mixed,mixed
+Jimmy Cooks,Drake,2022,True,0.673,0.366,mixed,mixed
+'Til You Can't,Cody Johnson,2021,False,0.8140000000000001,0.503,mixed,mixed
+Fancy Like,Walker Hayes,2022,False,0.765,0.855,mixed,mixed
+The Kind of Love We Make,Luke Combs,2022,False,0.745,0.464,mixed,mixed
+I Ain't Worried,OneRepublic,2022,False,0.797,0.8250000000000001,mixed,mixed
+BREAK MY SOUL,Beyoncé,2022,False,0.887,0.864,upper,uniform
+Something in the Orange,Zach Bryan,2022,False,0.192,0.148,mixed,mixed
+Save Your Tears,The Weeknd,2021,False,0.8250000000000001,0.593,mixed,mixed
+Smokin Out The Window,Bruno Mars,2021,False,0.618,0.848,mixed,mixed
+Levitating,Dua Lipa,2020,False,0.884,0.914,mixed,mixed
+In A Minute,Lil Baby,2022,True,0.605,0.145,mixed,mixed
+Moscow Mule,Bad Bunny,2022,True,0.674,0.292,mixed,mixed
+You Right,Doja Cat,2021,True,0.621,0.436,mixed,mixed
+She Had Me At Heads Carolina,Cole Swindell,2022,False,0.912,0.722,mixed,mixed
+Vegas,Doja Cat,2022,True,0.601,0.74,mixed,mixed
+pushin P,Gunna,2022,True,0.422,0.488,mixed,mixed
+Buy Dirt,Jordan Davis,2021,False,0.559,0.437,mixed,mixed
+I Hate U,SZA,2022,True,0.417,0.376,mixed,mixed
+Boyfriend,Dove Cameron,2022,True,0.612,0.232,mixed,mixed
+Glimpse of Us,Joji,2022,False,0.317,0.268,mixed,mixed
+Surface Pressure,Jessica Darrow,2021,False,0.584,0.37,mixed,mixed
+Fall In Love,Bailey Zimmerman,2022,False,0.643,0.397,mixed,mixed
+love nwantiti,CKay,2019,True,0.739,0.533,lower,uniform
+Super Freaky Girl,Nicki Minaj,2022,True,0.891,0.912,mixed,mixed
+Hrs & Hrs,Muni Long,2022,True,0.546,0.634,mixed,mixed
+Sand In My Boots,Morgan Wallen,2021,False,0.537,0.414,mixed,mixed
+MAMIII,Becky G,2022,False,0.7000000000000001,0.899,upper,uniform
+Knife Talk,Drake,2021,True,0.424,0.153,mixed,mixed
+AA,Walker Hayes,2021,False,0.747,0.753,upper,uniform
+Sweetest Pie,Megan Thee Stallion,2022,True,0.628,0.677,mixed,mixed
+PROVENZA,KAROL G,2022,False,0.516,0.53,upper,uniform
+Essence,Wizkid,2021,False,0.6910000000000001,0.581,mixed,mixed
+Bam Bam,Camila Cabello,2022,False,0.6970000000000001,0.956,mixed,mixed
+5 Foot 9,Tyler Hubbard,2022,False,0.796,0.53,mixed,mixed
+Get Into It,Doja Cat,2021,True,0.655,0.793,mixed,mixed
+Efecto,Bad Bunny,2022,True,0.475,0.234,mixed,mixed
+Rock and A Hard Place,Bailey Zimmerman,2023,False,0.5680000000000001,0.394,mixed,mixed
+Doin' This,Luke Combs,2022,False,0.55,0.39,mixed,mixed
+Oh My God,Adele,2021,False,0.725,0.55,mixed,mixed
+Better Days,NEIKED,2021,False,0.671,0.6990000000000001,mixed,mixed
+Meet Me At Our Spot,THE ANXIETY,2020,True,0.47,0.399,mixed,mixed
+Fingers Crossed,Lauren Spencer Smith,2022,False,0.473,0.441,mixed,mixed
+All Too Well,Taylor Swift,2021,True,0.518,0.205,mixed,mixed
+Party,Bad Bunny,2022,True,0.799,0.471,mixed,mixed
+Después de la Playa,Bad Bunny,2022,False,0.903,0.607,mixed,mixed
+You Should Probably Leave,Chris Stapleton,2020,False,0.477,0.552,mixed,mixed
+Broadway Girls,Lil Durk,2022,False,0.745,0.54,mixed,mixed
+Take My Name,Parmalee,2021,False,0.66,0.5740000000000001,mixed,mixed
+What Happened To Virgil,Lil Durk,2022,True,0.526,0.194,mixed,mixed
+PUFFIN ON ZOOTIEZ,Future,2022,True,0.657,0.284,upper,uniform
+Like I Love Country Music,Kane Brown,2022,False,0.802,0.6900000000000001,mixed,mixed
+Ojitos Lindos,Bad Bunny,2022,False,0.686,0.268,mixed,mixed
+Trouble With A Heartbreak,Jason Aldean,2022,False,0.797,0.595,mixed,mixed
+Kiss Me More,Doja Cat,2021,True,0.705,0.781,mixed,mixed
+She Likes It,Russell Dickerson,2021,False,0.325,0.539,mixed,mixed
+Never Say Never,Cole Swindell,2021,False,0.937,0.454,mixed,mixed
+Damn Strait,Scotty McCreery,2021,False,0.64,0.48,mixed,mixed
+she's all i wanna be,Tate McRae,2022,False,0.644,0.651,lower,uniform
+Last Night Lonely,Jon Pardi,2022,False,0.8160000000000001,0.865,mixed,mixed
+Flower Shops,ERNEST,2021,False,0.461,0.227,mixed,mixed
+TO THE MOON,JNR CHOI,2021,True,0.65,0.386,upper,uniform
+Unholy,Sam Smith,2022,False,0.472,0.238,mixed,mixed
+One Mississippi,Kane Brown,2022,False,0.84,0.5750000000000001,mixed,mixed
+Circles Around This Town,Maren Morris,2022,False,0.8140000000000001,0.8150000000000001,mixed,mixed
